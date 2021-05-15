@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MacManic
-- 👀 I’m interested in learning how git works.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m developing a path toward state legislation to incent education and competency for community association board members.
+- 📫 How to reach me ... <b>georgemarkle@icloud.com<b>
 
 <!---
 MacManic/MacManic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
