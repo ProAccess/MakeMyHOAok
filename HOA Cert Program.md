@@ -1,6 +1,6 @@
 <link href="./css/mdstyles.css" rel="stylesheet" type="text/css">
 ---
-title: '# Proposal for establishing the California Board of Certification for Community Association Directors'
+# title: 'Proposal for establishing the California Board of Certification for Community Association Directors'
 ---
 
 The persistent problem of recruiting qualified directors
