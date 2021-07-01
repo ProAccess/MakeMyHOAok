@@ -1,5 +1,5 @@
 ---
-title: 'Proposal for establishing the California Board of Certification for Community Association Directors'
+title: 'Proposals for establishing the California Board of Certification for Community Association Directors'
 ---
 <link href="./css/mdstyles.css" rel="stylesheet" type="text/css">
 
