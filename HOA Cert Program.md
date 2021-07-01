@@ -1,6 +1,8 @@
 ---
 title: 'Proposal for establishing the California Board of Certification for Community Association Directors'
 ---
+<link href="css/mdstyles.css" rel="stylesheet" type="text/css">
+
 # Proposal for establishing the California Board of Certification for Community Association Directors
 
 ---
@@ -15,7 +17,8 @@ HOA managers and attorneys too often witness the dearth of volunteers and the in
 Pool of qualified candidates varies with community size
 -------------------------------------------------------
 
-<img src="./images/availability-curve-500.png" width="400" style="float:right; padding:15px">Populations of most towns and cities usually are sufficient to ena­ble competitive elections and town- and city-councils with talents in disciplines applicable to operating their governments. However, the comparatively small population of most home­owners associa­tions often means a dearth of board candidates, many without applicable qualifica­tions. Often, HOA boards find themselves with directors with virtually *no experience* in business, finance, law, construction or many other applicable fields.
+<img class="float-r" src="./images/availability-curve-500.png" width="350">
+<img src="./images/availability-curve-500.png" width="350" style="float:right; padding:15px">Populations of most towns and cities usually are sufficient to ena­ble competitive elections and town- and city-councils with talents in disciplines applicable to operating their governments. However, the comparatively small population of most home­owners associa­tions often means a dearth of board candidates, many without applicable qualifica­tions. Often, HOA boards find themselves with directors with virtually *no experience* in business, finance, law, construction or many other applicable fields.
 
 HOAs with underqualified directors are the rule --- not the exception
 ---------------------------------------------------------------------
