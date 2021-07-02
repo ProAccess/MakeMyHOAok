@@ -1,8 +1,3 @@
-<link href="./css/mdstyles.css" rel="stylesheet" type="text/css">
----
-title: # 'Proposal for establishing the California Board of Certification for Community Association Directors'
----
-
 # Proposal for establishing the California Board of Certification for Community Association Directors
 ___
 
@@ -11,15 +6,15 @@ The persistent problem of recruiting qualified directors
 
 How many corporations exist with directors responsible to protect a large portion of stakeholders' equity typically have so little demonstrated applicable experience, competence, or knowledge of their duties or legal responsibilities?
 
-HOA managers and attorneys too often witness the dearth of volunteers and the inordinate costs in time and funds wasted by HOA Boards attempting to navigate issues affected by laws and best practices about which directors are unaware -- and time and costs for recovering from consequences of actions taken without such knowledge.
+HOA managers and attorneys too often witness the dearth of volunteers and the inordinate costs in time and funds wasted by HOA Boards attempting to navigate issues affected by laws and best practices about which directors are unaware — and time and costs for recovering from consequences of actions taken without such knowledge.
 
 Pool of qualified candidates varies with community size
 -------------------------------------------------------
 
-<img class="float-r" src="./images/availability-curve-500.png" width="350">
-<img src="./images/availability-curve-500.png" width="350" style="float:right; padding:15px">Populations of most towns and cities usually are sufficient to ena­ble competitive elections and town- and city-councils with talents in disciplines applicable to operating their governments. However, the comparatively small population of most home­owners associa­tions often means a dearth of board candidates, many without applicable qualifica­tions. Often, HOA boards find themselves with directors with virtually *no experience* in business, finance, law, construction or many other applicable fields.
+<img src="./images/availability-curve-500.png" width="350" style="float:right; padding:15px">
+Populations of most towns and cities usually are sufficient to ena­ble competitive elections and town- and city-councils with talents in disciplines applicable to operating their governments. However, the comparatively small population of most home­owners associa­tions often means a dearth of board candidates, many without applicable qualifica­tions. Often, HOA boards find themselves with directors with virtually *no experience* in business, finance, law, construction or many other applicable fields.
 
-HOAs with underqualified directors are the rule --- not the exception
+HOAs with underqualified directors are the rule — not the exception
 ---------------------------------------------------------------------
 
 HOA boards with under-qualified directors can have profound negative and costly effects on the lives of their members.
@@ -56,12 +51,11 @@ While this may have been a compromise to enable bill passage, foreseeably it cou
 Rather than compel, California can *incent* education
 =====================================================
 
-I propose that ECHO, CAI, CACM and other community association-oriented trade groups advocate for state legislation to enable a program that would *incent members to participate on their associations' boards, and to seek to educate themselves* as directors and for boards to encourage directors' education. (See *Summary of state legislation required to enable program* on page 17.)
+I propose that ECHO, CAI, CACM and other community association-oriented trade groups advocate for state legislation to enable a program that would *incent members to participate on their associations' boards, and to seek to educate themselves* as directors and for boards to encourage directors' education. (See [*Summary of state legislation required to enable program*](#summary_of_state_legislation).)
 
 The state would not *require* community association directors be licensed; thus, community associations may continue to operate as they have without fear of a requirement that might discourage members from volunteering. However...
 
-There would be incentives for those associations that encourage their directors to become *certified*. (See *Multiple broad benefits* on page
-7.)
+There would be incentives for those associations that encourage their directors to become *certified*. (See [*Multiple broad benefits*](#multiple_benefits).)
 
 First, legislation would create a new Civil Code Section 6200 to Division 4, Part 5, Chapter 12 that would
 
@@ -89,11 +83,10 @@ The BCCAD would assign *ratings* to communities based generally upon the propor�
 
 Real estate values in communities who can boast such ratings may benefit and provide a strong incentive for members to keep electing candidates who are certified. Those that do not risk being at a disadvantage.
 
-Other benefits may be fostered as well, such as discounts from services vendors, whom may justify discounts as educated boards are easier and more profitable to work with. (See *Multiple broad benefits* beginning on page 7.)
+Other benefits may be fostered as well, such as discounts from services vendors, whom may justify discounts as educated boards are easier and more profitable to work with. (See [*Multiple broad benefits*](#multiple_benefits).)
 
 Board of Certification for Community Association Directors (BCCAD
 =========================================================
-
 <img src="./images/logo-bccad-500.jpg" width="350" style="display:block; float:right; padding: 15px">
 
 The BCCAD would
@@ -106,15 +99,15 @@ The BCCAD would
 
 - maintain online accessibility of each participant's certification and credits status.
 
-- establish standards for an educational program known as the '[COMPETENCE']{.smallcaps} training program, an acronym for
+- establish standards for an educational program known as the <smallcaps>COMPETENCE</smallcaps> training program, an acronym for
 **C**ommunity **O**versight and **M**anagement **P**rinciples
-**E**ducation **T**o **E**ngender **C**ommunity **E**xcellence. (This acronym also complements the preferred means of attaining certification --- through the [^1]*Competency Based Education* method. See the US Department of Education explanation of this method, below.)
+**E**ducation **T**o **E**ngender **C**ommunity **E**xcellence. (This acronym also complements the preferred means of attaining certification — through the [^1]*Competency Based Education* method. See the US Department of Education explanation of this method, below.)
 
-- establish a COMPETENCE-star-rating system for community association boards, derived from a formula that includes the percentage of its directors with a current certification as well as whether it is actively managed by a CCAM-certified manager (see Determination of community association COMPETENCE star rating on page 14).
+- establish a <smallcaps>COMPETENCE</smallcaps>-star-rating system for community association boards, derived from a formula that includes the percentage of its directors with a current certification as well as whether it is actively managed by a CCAM-certified manager. (See [Determination of community association COMPETENCE star rating](#star_rating_determination)</a>).
 
 - provide coordinating resources, including CE credit standards, for independent organizations, such as ECHO and CAI that already provide education for CID directors. This would enable such organizations to be approved and participate as partners in training, reducing or eliminating training burden for BCCAD. While BCCAD may create and administer training programs, it also would have the option of allowing training solely through such independent organizations should it determine they provide necessary training and accessibility to communities.
 
-- promote directors' and members' participation in approved training to instill knowledge of duties, legal responsibilities and best practices for community association directors. --- to qualify as
+- promote directors' and members' participation in approved training to instill knowledge of duties, legal responsibilities and best practices for community association directors — to qualify as
 *Certified Community Association Directors.* This also may have the effect of encouraging directors to become members of education organizations like ECHO and CAI to assist with continuing education to maintain director certifications.
 
 - provide testing and certify applicants who have successfully passed an exam that could be conveniently taken online.
@@ -140,40 +133,36 @@ This would ensure consistency with require­ment under Civil Code § 5105(a)(3) 
 
 Any member's certification status under this program would be verifiable via a website, as for verification of licenses and certifications for professionals and service providers operating under California Department of Consumer Affairs regulation.
 
-Multiple broad benefits
-
+<a name="multiple_benefits"></a>Multiple broad benefits
 -----------------------
-[]{#_Toc71296657 .anchor}Benefits described below --- particularly those involving reduced costs for the association affecting dues --- may motivate CID boards to press directors to engage in the program and maintain their certifications and association ratings that would merit such benefits. Thus, association members may be motivated to vote for those candi­dates who are certified to maintain qualifying status and thus help control dues.
+[]{#_Toc71296657 .anchor}Benefits described below — particularly those involving reduced costs for the association affecting dues — may motivate CID boards to press directors to engage in the program and maintain their certifications and association ratings that would merit such benefits. Thus, association members may be motivated to vote for those candi­dates who are certified to maintain qualifying status and thus help control dues.
 
 ### Benefits for community associations
 
 <img src="./images/hammer-and-gavel-1000.png" width="350" style="float:right; padding: 15px">
 
-An overall board COMPETENCE score or *rating* would be calculated for each community association, derived primarily from the proportion of directors' seats that are filled and proportion of directors who are certified as well as whether they have engaged a manager who is certified. (see
-*Determination of community association COMPETENCE star rating* on page
-14)
+An overall board COMPETENCE score or *rating* would be calculated for each community association, derived primarily from the proportion of directors' seats that are filled and proportion of directors who are certified as well as whether they have engaged a manager who is certified. (See [*Determination of community association COMPETENCE star rating*](#star_rating_determination).
 
 The BCCAD would maintain a list of the top-10, top-100, top-1000 community associations by rating. Real estate values in communi­ties who can boast such ratings may benefit and provide a strong incentive for members to keep electing candidates who are certified. This also should incent directors and members to keep their associa­tion's rating high to enhance the desirability of homes in their development.
 
-Disclosure of the board's rating would be required in the annual policy statement provided to all members pursuant to Civil Code §5310, also ensuring prospective purchasers would receive it. (See example on page
-26.)
+Disclosure of the board's rating would be required in the annual policy statement provided to all members pursuant to Civil Code §5310, also ensuring prospective purchasers would receive it. (See [example candidate biographies document](#example_bios).
 
 ### Benefits for Community Association insurers
 
-Insurance companies have long recognized the value of training of customers in improving risk management and reducing insurance costs. This new certification program will result in directors who have demonstrated knowledge of best practices, current law and awareness of principles of risk management. An informed Board should be less likely to fall askew of the law and incur unexpected legal expenses. As such education could lower risk and insurance premiums --- *typically one of the biggest budget items for CIDs* --- this could provide a compelling motivation for boards to promote education among their directors and make certified candidates more attractive to the dues-paying members.
+Insurance companies have long recognized the value of training of customers in improving risk management and reducing casualty costs. This program should result in more directors with demonstrated knowledge of best practices, current law and awareness of principles of risk management. An informed Board should be less likely to fall askew of the law and incur unexpected legal expenses. As such education could lower risk and insurance premiums — *typically one of the biggest budget items for CIDs* — this could provide a compelling motivation for boards to promote education among their directors and make certified candidates more attractive to the dues-paying members.
 
-The BCCAD could work with insurance providers to demonstrate how such a program could reduce risks and successfully elicit offers of discounts on premiums.
+The BCCAD could work with insurance providers to demonstrate how such a program could reduce risks and encourage offers of discounts on premiums for those associations that can maintain a certain rating.
 
 ### Benefits for candidates
 
-Indicating certification status on ballots and election materials with candidate lists --- with a "CCAD" designation or simple asterisk and footnote --- would be an indicator of a candidate's commitment to improve knowledge of best practices and legal requirements. For associations where elections are competitive, this could influence members in their voting and increase overall board competence.
+Indicating certification status on ballots and election materials with candidate lists — with a <em><abbr>CCAD<abbr></em> designation or simple asterisk and footnote — would be an indicator of a candidate's commitment to improve knowledge of best practices and legal requirements. For associations where elections are competitive, this could influence members in their voting and increase overall board competence.
 
 ### Benefits for management companies
 
-The program should strongly incent management companies to ensure all of its managers are certified. This is because an association's [COMPETENCE]{.smallcaps} rating will be affected by whether its manager
---- If it has one --- is certified. (See the calculation for an Association's rating under *Determination of board of directors COMPETENCE star rating* on page 14.)
+The program should strongly incent management companies to ensure all of its managers are certified. This is because an association's <smallcaps>COMPETENCE</smallcaps> rating will be affected by whether its manager
+— If it has one — is certified. (See the calculation for an Association's rating under [*Determination of board of directors COMPETENCE star rating*](#star_rating_determination).)
 
-Faced with competing bids from two management companies --- one who will provide a CACM-certified manager that will increase the board's rating, and one that cannot --- which will they select?
+Faced with competing bids from two management companies — one who will provide a CACM-certified manager that will increase the board's rating, and one that cannot — which will they select?
 
 Much of a manager's time may be spent advising directors and dealing with issues that would not have surfaced had directors been better informed. This program should help with such education.
 
@@ -181,10 +170,9 @@ Management companies may discover such benefits sufficient to warrant offering a
 
 ### Increased membership for Community Association educators
 
-Should we succeed in having legislation passed to create the BCCAD, community association education organizations likely would see a substantial increase in membership. Those already at the forefront --- ECHO, CAI, CACM --- particularly should benefit given their established prominence and reputations for excellence.
+Should we succeed in having legislation passed to create the BCCAD, community association education organizations likely would see a substantial increase in membership. Those already at the forefront — ECHO, CAI, CACM — particularly should benefit given their established prominence and reputations for excellence.
 
 Other benefits of the program
-
 -----------------------------
 []{#_Toc71296662 .anchor}Community Association services providers may by convinced to offer discounts for those associations who maintain high ratings, as informed boards should be easier and more profitable to work with.
 
@@ -201,7 +189,7 @@ Also, the need and techniques for recruitment, training, motivation and retentio
 An inordinate amount of time in meetings is spent debating directors' lay opinions regarding how issues should be treated, when applicable regulation and proven best practices already exist.
 
 I suspect almost anyone who has attended associa­tion board meetings over time can relate anecdotes reflective of this. I attended a meeting where an influen­tial senior director argued against seeking legal advice regarding a potential liability, rationalizing a consultation would be pointless because "there will always be another attorney with a different opinion." She boasted that, while she had been president, "we
-*never* got legal advice" --- as if that should be the board's policy. Her argument prevailed, reinforced by a new board president who declined to heed a statute called to her attention, respond­ing "I'm not an attorney and I won't interpret the law."
+*never* got legal advice" — as if that should be the board's policy. Her argument prevailed, reinforced by a new board president who declined to heed a statute called to her attention, respond­ing "I'm not an attorney and I won't interpret the law."
 
 Had even a couple of directors been in exposed to rudiments of risk management, I believe this would not have occurred. Such exposure would be part of the training and certification process.
 
@@ -217,13 +205,12 @@ Becoming certified
 ==================
 
 Initial certification
-
 ---------------------
 An individual seeking initial certification must pass an exam to demonstrate knowledge of essential rudiments of CID law and governance best practices. (See page *20*.)
 
 ### Regarding stringency of requirements for director certification
 
-Director testing requirements are modeled somewhat after California Business and Professions Code §11502 --- Certified Common Interest Development Manager Criteria. However, whereas testing for manager certification represents an opportunity for vocational and income advancement, testing for volunteers' certification has the potential to be a barrier for essential director recruitment --- already difficult for many community associations. Therefore, requirements for director certification are reduced from those for manager.
+Director testing requirements are modeled somewhat after California Business and Professions Code §11502 — Certified Common Interest Development Manager Criteria. However, whereas testing for manager certification represents an opportunity for vocational and income advancement, testing for volunteers' certification has the potential to be a barrier for essential director recruitment — already difficult for many community associations. Therefore, requirements for director certification are reduced from those for manager.
 
 Over time, stringency may evolve as we gain more experience with the program.
 
@@ -242,7 +229,6 @@ The number of questions and required percentage of correct answers would be dete
 These example policies may be modified as experience is accumulated.
 
 Maintaining certification
-
 -------------------------
 An example policy for maintaining certification might be the following:
 
@@ -250,23 +236,21 @@ To maintain certification, one must accumulate a minimum of eight continuing edu
 
 Given that CID directors are unpaid volunteers, this program strives to achieve a balance of incenting meaningful education without overly burdensome requirements that may discourage volunteer recruitment. We also recognize individuals' learning styles vary and allow for this in awarding certification and continuing education through these methods:
 
-- Formal in-person classes --- Attending in-person BCCAD-qualifying classes or presentations offered by institutions such as CAI and ECHO. No exam would be required for classes attended in-person although the instructor would be encouraged to distribute a written summary of key points.
+- Formal in-person classes — Attending in-person BCCAD-qualifying classes or presentations offered by institutions such as CAI and ECHO. No exam would be required for classes attended in-person although the instructor would be encouraged to distribute a written summary of key points.
 
-- Online courses --- Taking BCCAD-approved online courses and correctly answering a minimum of 75% of questions in an online quiz.
+- Online courses — Taking BCCAD-approved online courses and correctly answering a minimum of 75% of questions in an online quiz.
 
-- Published articles --- Reading articles in periodicals published by BCCAD-approved institutions such as CAI and ECHO and answering correctly a minimum of 75% of questions in an online quiz.
+- Published articles — Reading articles in periodicals published by BCCAD-approved institutions such as CAI and ECHO and answering correctly a minimum of 75% of questions in an online quiz.
 
 Technology-centric to minimize costs and issues
-
 -----------------------------------------------
 Inasmuch as the program's creation and existence may be predicated upon efficiency and minimal budget impact, emphasis will be given to applying technology for
 
-- Testing --- Certification examinations nominally would be taken online to minimize impediments to certification and program administration costs and to ensure uniform, timely and reliable registration and management of certification and crediting. Reasonable allowances may be made to accommodate partner organizations' testing methods.
+- Testing — Certification examinations nominally would be taken online to minimize impediments to certification and program administration costs and to ensure uniform, timely and reliable registration and management of certification and crediting. Reasonable allowances may be made to accommodate partner organizations' testing methods.
 
-- Courseware and continuing education materials --- Courseware and industry article authors who wish their material to be available for training and continuing education credits would be provided instructions and means for formatting and placing their material online. Such ma­terial and CE *quizzes* would be subject to review by the BCCAD before being activated.
+- Courseware and continuing education materials — Courseware and industry article authors who wish their material to be available for training and continuing education credits would be provided instructions and means for formatting and placing their material online. Such ma­terial and CE *quizzes* would be subject to review by the BCCAD before being activated.
 
 Determination of credits
-
 ------------------------
 Each unit of continuing education credit would be equivalent to exposure to one of the following:
 
@@ -286,7 +270,7 @@ One credit may be awarded for each 1,000 words of [^2]*substantive material* wit
 
 A variance for extraordinary circumstances may be applied for to BCCAD.
 
-> Table --- Credit calculation examples
+> Table — Credit calculation examples
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Method**                                                                                                                                                                                                                                                                        **Substantive\   **Credits**   **\*Min. Exam Questions**   **Number of questions**
@@ -351,12 +335,11 @@ The following include examples of how one may accumulate the required 8 credits 
 
 Credits in excess of those required for certification are laudable but cannot be applied to certification in *subsequent* periods inasmuch as current certification implies exposure to and knowledge of *current* legislation and developments in best practices. However, the total number of credits accumulated by an individual may be published in the online database as an incentive toward continuing education
 
-Determination of community association [COMPETENCE]{.smallcaps} star rating
-
+<a name="star_rating_determination"></a>Determination of community association <smallcaps>COMPETENCE</smallcaps> star rating
 ---------------------------------------------------------------------------
 Whereas a calculated numeric score or rating may require interpretation, ratings based upon the popular and ubiquitous five-star model have come to be immediately and intuitively recognized. Thus, the rating calculation includes normalization to a maximum of five for presentation in the five-star format, e.g., a rating of 2.9 would be presented as
 
-<img src="./images/2-9-stars-500.png" width="250" style="display:block; margin:auto; padding: 15px">
+<img src="./images/2-9-stars-500.png" width="150" style="display:block; margin:auto; padding: 15px">
 
 []{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
@@ -367,8 +350,8 @@ $FP + \ (\ \frac{\text{Number\ of\ currently\ certified\ directors\ and\ manager
 
 *FP* is the *foundational partners* credit and credits the association with having established the two key relationships essential to directors' education and informed decision-making:
 
-- a community association educational institution approved by CBCAD, such as ECHO (Educational Community of Homeowners) or CAI (Community Associations Institute). A current membership in either organization is equal to one-half-point (0.5), the limit for this credit even with membership in more than one.
-
+- a community association educational institution approved by CBCAD, such as ECHO (Educational Community of Homeowners) or CAI (Community Associations Institute). A current membership in either organization is equal to one-half-point (0.5), the limit for this credit even with membership in more than one. 
+ 
 A qualifying educational institution will periodically provide directors with published magazines and/or newsletters containing articles on community association law and best practices in management and oversight.
 
 - an attorney specializing in California community association law. Certifying to CBCAD the association has established a client relationship with such an attorney will credit the association with one-half-point (0.5), the limit for this credit even if a relationship with more than one exists.
@@ -395,7 +378,7 @@ $\left( 0.5 + 0.5 \right) + \frac{6}{7}*\ \frac{\left( 4 + 1 \right)}{7}*\ 4$ = 
 
 The above rating result would be rounded to, for example, 3.4 for the star-rating display on the BCCAD website and down­load­able report in both stars and number format as in the following example. (See page 26.)
 
-<img src="./images/3-1-stars-500.png" width="250" style="display:block; margin:auto; padding: 15px">
+<img src="./images/3-1-stars-500.png" width="150" style="display:block; margin:auto; padding: 15px">
 
 An eminently recognizable *star rating* next to the association's name may incentivize an effort by its directors to increase its rating by ensuring all positions are filled and directors' receive training --- the primary objectives of this program. Directors informing association members how the rating may affect dues may heighten members' awareness of the importance of volunteering for board participation.
 
@@ -404,22 +387,20 @@ An eminently recognizable *star rating* next to the association's name may incen
 While a rounded number would be displayed with the star rating, a full-precision floating point value would be used to further differentiate community associations when calculating ratings for Top 1,000, Top 500, Top 100, etc. placement. These ratings may further incent directors to maintain their education as such ratings might be used by real estate professionals when promoting property sales and values.
 
 Effective date of rating
-
 ------------------------
 The community association's rating would be recalculated and effective immediately following any change of Board composition or certification or change of manager or foundational partnerships that would affect the rating. Thus, an association's rating could not readily be manipulated by temporary director appointments or resignations.
 
-Summary of state legislation required to enable program
-
+<a name="summary_of_state_legislation"></a>Summary of state legislation required to enable program
 =======================================================
 Success in incenting participation and education for informed governance is predicated upon universal applicability of COMPETENCE ratings. Were application of ratings merely elective, there would be little incentive to maintain ratings. Therefore, legislation would be required that would do *all of the following*:
 
-- set standards for and recognize a qualifying organization whose purpose is to promote voluntary education of best practices and legal requirements for community association governance and to certify members who demonstrate such knowledge with designation as Certified Community Association Directors. (See *Exhibit A --- Proposed statute enabling creation of BCCAD* on page 19.)
+- set standards for and recognize a qualifying organization whose purpose is to promote voluntary education of best practices and legal requirements for community association governance and to certify members who demonstrate such knowledge with designation as Certified Community Association Directors. (See [*Exhibit A — Proposed statute enabling creation of BCCAD*(#statue_enabling_creation).)
 
-- amend California Civil Code §5310 to require the annual policy statement disclosure include the Board's COMPETENCE rating. (See Proposed amendment to Civil Code §5310 *on page* *25*.)
+- amend California Civil Code §5310 to require the annual policy statement disclosure include the Board's COMPETENCE rating. (See [Proposed amendment to Civil Code §5310](#cc5310_amendment).)
 
-- add new Civil Code §5105(a)(8) to require that any candidates certified under this program be identified as such. Example documents illus­trating compliance are included in *Exhibit B --- Election materials must include certification info* on page 22.
+- add new Civil Code §5105(a)(8) to require that any candidates certified under this program be identified as such. Example documents illus­trating compliance are included in [*Exhibit B — Election materials must include certification info*](#election_materials_include_certification).
 
-- add new Civil Code §5105(a)(9) to require that information be provided regarding how *any* associa­tion member may apply for certification under this program. Example documents illus­trating compliance are included in *Exhibit B --- Election materials must include certification info* on page 22.
+- add new Civil Code §5105(a)(9) to require that information be provided regarding how *any* associa­tion member may apply for certification under this program. Example documents illus­trating compliance are included in [*Exhibit B — Election materials must include certification info*</a>](#election_materials_include_certification).
 
 - add sub-paragraph (12) to Civil Code §5405(a) to require community associations to include the number of board seats indicated in their Bylaws to information they are required to provide the Secretary of State annually (used to calculate the association board's COMPETENCE rating).
 
@@ -429,15 +410,13 @@ Success in incenting participation and education for informed governance is pred
 
 This description and proposal for a voluntary state-sanctioned program to promote participation on and education for community association boards is being circulated within the industry for discussion. Comments and suggestions are requested. Please forward to George Markle, george\@proaccess.com.
 
-Exhibit A --- Proposed statute enabling creation of BCCAD
-
+<a name="statue_enabling_creation"></a>Exhibit A — Proposed statute enabling creation of BCCAD
 =========================================================
 Proposed new Civil Code Section 6200
-
 ------------------------------------
 A new Section 6200 would be added to Civil Code Division 4, Part 5, Chapter 12:
 
-Chapter 12 --- CERTIFIED COMMUNITY ASSOCIATION DIRECTOR
+Chapter 12 — CERTIFIED COMMUNITY ASSOCIATION DIRECTOR
 
 6200 For purposes of this chapter, the following definitions apply:
 
@@ -463,7 +442,7 @@ Chapter 12 --- CERTIFIED COMMUNITY ASSOCIATION DIRECTOR
 
 3. Requires adherence to a code of ethics and standards of practice for Community Association directors.
 
-6205--- In order to be designated a\" Certified Community Association Director,\" a person shall meet the following requirements:
+6205 — In order to be designated a\" Certified Community Association Director,\" a person shall meet the following requirements:
 
 Has passed an examination or examinations of no less than fifty (50) questions that test competence in common interest develop­ment oversight in the following areas:
 
@@ -481,7 +460,7 @@ Has passed an examination or examinations of no less than fifty (50) questions t
 
 6. Basic understanding of governing documents, codes, and regulations relating to the activities and affairs of associations and common interest developments.
 
-```{=html} <!-- --> ``` (h) Instruction in general common interest development governance including, but not limited to, the following:
+(b) Instruction in general common interest development governance including, but not limited to, the following:
 
 1. Relationships with and communications with members, residents, employees and contractors.
 
@@ -505,11 +484,9 @@ Has passed an examination or examinations of no less than fifty (50) questions t
 
 11. Current issues relating to common interest developments.
 
-Exhibit B --- Election materials must include certification info
-
+<a name="election_materials_include_certification"></a>Exhibit B — Election materials must include certification info
 ================================================================
 Proposed amendment to identify certified candidates
-
 ---------------------------------------------------
 Add new Civil Code §5105(a)(8) to require that any candidate certified under this program be identified as such:
 
@@ -522,7 +499,6 @@ At the candidate's option, any certified candidate may include the "CCAD" design
 Example documents illus­trating compliance are included below.
 
 Proposed amendment to include certification eligibility information
-
 -------------------------------------------------------------------
 Add new Civil Code §5105(a)(9) to require that information be provided regarding how any association member may apply for certification under this program. The new paragraph regarding mandated Election Rules might read like the following:
 
@@ -533,39 +509,32 @@ Add new Civil Code §5105(a)(9) to require that information be provided regardin
 Example documents illus­trating compliance appear below.
 
 Conforming examples
-
 -------------------
 Examples that follow illustrate conforming election materials.
 
-![](.//images/example-bios.png){width="7in"}
+<a name="example_bios"></a>![](.//images/example-bios.png){width="7in"}
 
-![](.//images/example-ballot.png){width="7in"}
+<a name="example_ballot"></a>![](.//images/example-ballot.png){width="7in"}
 
-Exhibit --- Requirements for disclosures of board rating
-
+Exhibit — Requirements for disclosures of board rating
 ========================================================
-Civil Code §5310 would be amended to require the annual policy statement include the Board's COMPETENCE rating. As a conven­ience, BCCAD may provide a webpage from which a certificate of rating disclosure may be generated and downloaded. (See specimen on page 26.)
+Civil Code §5310 would be amended to require the annual policy statement include the Board's COMPETENCE rating. As a conven­ience, BCCAD may provide a webpage from which a certificate of rating disclosure may be generated and downloaded. (See [specimen](#star_rating_determination).)
 
-Proposed amendment to Civil Code §5310
-
+<a name="cc5310_amendment"></a>Proposed amendment to Civil Code §5310
 --------------------------------------
 Section 5310 (a)(12) would be renumbered as 5310 (a)(13) and new 5310(a)(12) would become the following:
 
 \[12\] The Board's current COMPETENCE rating and explanation of its purpose and calculation formula, substantially as indicted in the example specimen that follows:
 
-![](.//images/example-hoa-certification.png){width="7in"}
+<a name="example_hoa_rating"></a>![](.//images/example-hoa-certification.png){width="7in"}
 
+## Footnotes
 
 [^1]: The US Department of Education describes *Competency Based
     Education* as a preferred alternative to a traditional
-    *Carnegie-Unit* based approach to learning in the modern age for a
-    population already employed and without the flexibility of full-time
-    student status.
+    *Carnegie-Unit* based approach to learning in the modern age for a population already employed and without the flexibility of full-time student status.
     <https://www.ed.gov/oii-news/competency-based-learning-or-personalized-learning>.
-    The program focuses less on accumulated hours in passive attendance
-    or exposure to lectures and presentations, and more upon actual
-    knowledge gleaned from experience and learning from any source, such
-    as articles, classes, and online education programs.
+    The program focuses less on accumulated hours in passive attendance or exposure to lectures and presentations, and more upon actual knowledge gleaned from experience and learning from any source, such as articles, classes, and online education programs.
 
 [^2]: *Substantive material* is that which conveys information essential
     for instruction and about which exam questions will be provided. For
