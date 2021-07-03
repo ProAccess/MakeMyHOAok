@@ -174,10 +174,9 @@ Much of a manager's time may be spent advising directors and dealing with issues
 Management companies may discover such benefits sufficient to warrant offering a discount for boards that can maintain higher ratings or increasing management fees should the board's rating drop below a certain number. Management fees usually are one of the largest budget items affecting dues.
 
 ### Increased membership for Community Association educators
-<span class="float-r"><img src="images/echo-logo-500.png" width="150"><br>
-<img src="images/cai-logo-500.png" width="150"><br>
+<span class="float-r"><img src="images/echo-logo-500.png" width="150"><br><br>
+<img src="images/cai-logo-500.png" width="150"><br><br>
 <img src="images/cacm-logo-500.png" width="150"></span>
-</span>
 
 Should we succeed in having legislation passed to create the BCCAD, community association education organizations likely would see a substantial increase in membership. Those already at the forefront — ECHO, CAI, CACM — particularly should benefit given their established prominence and reputations for excellence.
 
