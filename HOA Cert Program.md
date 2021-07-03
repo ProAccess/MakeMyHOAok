@@ -332,7 +332,7 @@ Whereas a calculated numeric score or rating may require interpretation, ratings
 []{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
 
-$FP + \ (\ \frac{\text{Number\ of\ currently\ certified\ directors\ and\ manager}}{\text{Max\ directors\ per\ Bylaws}}*\frac{\text{Actual\ number\ of\ directors}}{\text{Max\ directors\ per\ Bylaws}}*5$)
+<img src="https://render.githubusercontent.com/render/math?math=FP + \frac{Number%20of%20currently%20certified%20directors%20and%20manager}{Max%20directors%20per%20Bylaws} x \frac{Actual%20number%20of%20directors}{Max%20directors%20per%20Bylaws} x 5">
 
 ### Foundational Partners credit
 
@@ -358,11 +358,7 @@ As an example, consider an association
 
 - that has four directors certified and the association has engaged a manager who is [^3]CCAM-certified. The board rating would be
 
-<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
-
-<img src="https://render.githubusercontent.com/render/math?math=FP+ \frac{Number of currently certified directors and manager}{Max directors per Bylaws} x \frac{Actual number of directors}{Max directors per Bylaws} X 5">
-
-$\left( 0.5 + 0.5 \right) + \frac{6}{7}*\ \frac{\left( 4 + 1 \right)}{7}*\ 4$ = 3.4489
+<img src="https://render.githubusercontent.com/render/math?math=(0.5 + 0.5) + \frac{6}{7} x \frac{(4 + 1)}{7} x 4 = 3.4489">
 
 ### Displayed rating vs. stored rating
 
