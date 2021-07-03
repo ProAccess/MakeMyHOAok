@@ -334,7 +334,7 @@ A board's COMPETENCE rating would be determined by a formula that may be adjuste
 
 <img src="https://render.githubusercontent.com/render/math?math=FP + \frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws}" height="30">
 
-<img src="https://render.githubusercontent.com/render/math?math=FP + \frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5" height="30">
+<img src="https://render.githubusercontent.com/render/math?math=FP + (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5)" height="30">
 
 ### Foundational Partners credit
 
