@@ -276,58 +276,36 @@ A detailed lesson plan or class outline should be submitted to BCCAD, nominally 
 
 Writing style variation defies precise assignment of credits per given volume of material. However, an author or instructor should attempt to meet the following guidelines before submitting material via the BCCAD website for approval:
 
-One credit may be awarded for each 1,000 words of [^2]*substantive material* with a minimum of 75% correct answers to questions that follow. *The author should include approximately 1-question per each 200 words of substantive written material*. For example, a 1,000-word article would be followed by 4-to-6 questions. The minimum number is indicated in .
+One credit may be awarded for each 1,000 words of [^2]*substantive material* with a minimum of 75% correct answers to questions that follow. *The author should include approximately 1-question per each 200 words of substantive written material*. For example, a 1,000-word article would be followed by 4-to-6 questions. The minimum number is indicated in the table.
 
 A variance for extraordinary circumstances may be applied for to BCCAD.
 
 > Table — Credit calculation examples
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Method**                                                                                                                                                                                                                                                                        **Substantive\   **Credits**   **\*Min. Exam Questions**   **Number of questions**
-                                                                                                                                                                                                                                                                                    Length**                                                   
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------- ------------- --------------------------- -------------------------
-  In-person class or presentation                                                                                                                                                                                                                                                   10 min           0                                         
+| **Method** | **Substantive length** | **Credits** | **Min. Exam Questions** |**Number of Questions**|
+| :--- | :---: | :---: | :---: | :---: |
+| In-person class or presentation | 10 min | 0 |   
+|  | 15 min | 1 |   |  |
+|  | 20 min | 1 |
+|  | 30 min | 2 |                                        
+|  | 40 min | 2 |
+|  | 45 min | 3 |
+|  | 50 min | 3 |
+|  | 1 hr | 4 |
+|  | 2 hr | 8 |
+| ... | 
+| Online courses, articles, written material | 1,000 words | 1 | 4 | 4-6 |
+|  | 1,500 | 1 | 6 | 6-9 |
+|  | 1,600 | 1 | 6 | 6-10 |
+|  | 1,700 | 1 | 7 | 7-10 |
+|  | 1,800 | 1 | 7 | 7-11 |
+|  | 1,900 | 2 | 8 | 8-11 |
+|  | 2,000 | 2 | 8 | 8-12 |
+|  | 3,000 | 3 | 12 | 12-18 |
+|   | 4,000 | 4 | 16 | 16-24 |
+| ... |
 
-                                                                                                                                                                                                                                                                                    15 min           1                                         
-
-                                                                                                                                                                                                                                                                                    20 min           1                                         
-
-                                                                                                                                                                                                                                                                                    30 min           2                                         
-
-                                                                                                                                                                                                                                                                                    40 min           2                                         
-
-                                                                                                                                                                                                                                                                                    45 min           3                                         
-
-                                                                                                                                                                                                                                                                                    50 min           3                                         
-
-                                                                                                                                                                                                                                                                                    1 hr             4                                         
-
-                                                                                                                                                                                                                                                                                    2 hr             8                                         
-
-                                                                                                                                                                                                                                                                                    ...                                                        
-
-  Online courses, articles, written material                                                                                                                                                                                                                                        1,000 words      1             4                           4-6
-
-                                                                                                                                                                                                                                                                                    1,500            1             6                           6-9
-
-                                                                                                                                                                                                                                                                                    1,600            1             6                           6-10
-
-                                                                                                                                                                                                                                                                                    1,700            1             7                           7-10
-
-                                                                                                                                                                                                                                                                                    1,800            1             7                           7-11
-
-                                                                                                                                                                                                                                                                                    1,900            2             8                           8-11
-
-                                                                                                                                                                                                                                                                                    2,000            2             8                           8-12
-
-                                                                                                                                                                                                                                                                                    3,000            3             12                          12-18
-
-                                                                                                                                                                                                                                                                                    4,000            4             16                          16-24
-
-                                                                                                                                                                                                                                                                                    ...                                                        
-
-  \*A minimum of 75% correct answers is required for credit. Continuing education exams may be open-book, with full access to material, encouraging an applicant to review any material about which he or she may be uncertain. A failed exam may be taken over until successful.                                                              
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\*A minimum of 75% correct answers is required for credit. Continuing education exams may be open-book, with full access to material, encouraging an applicant to review any material about which he or she may be uncertain. A failed exam may be taken over until successful.
 
 ### Example credits earning scenarios
 
@@ -379,6 +357,9 @@ As an example, consider an association
 - has six directors, where the Bylaws specifies a maximum of seven.
 
 - that has four directors certified and the association has engaged a manager who is [^3]CCAM-certified. The board rating would be
+
+$\frac{a}{b}$
+<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
 
 $\left( 0.5 + 0.5 \right) + \frac{6}{7}*\ \frac{\left( 4 + 1 \right)}{7}*\ 4$ = 3.4489
 
