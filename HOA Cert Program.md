@@ -332,7 +332,7 @@ Whereas a calculated numeric score or rating may require interpretation, ratings
 []{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
 
-<img src="https://render.githubusercontent.com/render/math?math=FP + \frac{Number%20of%20currently%20certified%20directors%20and%20manager}{Max%20directors%20per%20Bylaws} x \frac{Actual%20number%20of%20directors}{Max%20directors%20per%20Bylaws} x 5">
+<img src="https://render.githubusercontent.com/render/math?math=FP + \frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max%20directors%20per%20Bylaws} x \frac{Actual%20number%20of%20directors}{Max%20directors%20per%20Bylaws} x 5">
 
 ### Foundational Partners credit
 
