@@ -176,7 +176,7 @@ Management companies may discover such benefits sufficient to warrant offering a
 ### Increased membership for Community Association educators
 <span class="float-r"><img src="images/echo-logo-500.png" width="150"><br><br>
 <img src="images/cai-logo-500.png" width="150"><br><br>
-<img src="images/cacm-logo-500.png" width="150"></span>
+<img src="images/cacm-logo-500.png" width="125"></span>
 
 Should we succeed in having legislation passed to create the BCCAD, community association education organizations likely would see a substantial increase in membership. Those already at the forefront — ECHO, CAI, CACM — particularly should benefit given their established prominence and reputations for excellence.
 
@@ -358,8 +358,9 @@ As an example, consider an association
 
 - that has four directors certified and the association has engaged a manager who is [^3]CCAM-certified. The board rating would be
 
-$\frac{a}{b}$
 <img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
+
+<img src="https://render.githubusercontent.com/render/math?math=FP+ \frac{Number of currently certified directors and manager}{Max directors per Bylaws} x \frac{Actual number of directors}{Max directors per Bylaws} X 5">
 
 $\left( 0.5 + 0.5 \right) + \frac{6}{7}*\ \frac{\left( 4 + 1 \right)}{7}*\ 4$ = 3.4489
 
