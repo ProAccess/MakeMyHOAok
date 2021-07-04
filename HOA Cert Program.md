@@ -46,7 +46,7 @@ At least one state, Florida, did try a licensing model. (See below.)
 A flawed model
 --------------
 
-We can learn from the Florida model, which loosely follows consumer protection licensing requirements, ostensibly requiring training to minimum standards. However, presumably to address the objection that licensing would discourage potential volunteers, the legislature created a glaring loophole which, in my opinion, effectively nullifies the program's purpose: A would-be director may circumvent training or passing an exam simply by indicating in writing to the secretary they have read the governing documents and agree to uphold them.
+We can learn from the Florida model, which loosely follows consumer protection licensing requirements, ostensibly requiring training to minimum standards. However, presumably to address the objection that licensing would discourage potential volunteers, the legislature created what I believe to be fatal loophole that effectively nullifies the program's purpose: A would-be director may circumvent training or passing an exam simply by indicating in writing to the secretary they have read the governing documents and agree to uphold them.
 
 While this may have been a compromise to enable bill passage, foreseeably it could be fatal to the purpose of informed governance.
 
@@ -332,7 +332,7 @@ Whereas a calculated numeric score or rating may require interpretation, ratings
 []{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
 
-<img src="https://render.githubusercontent.com/render/math?math=FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5)" height="28">
+<img src="https://render.githubusercontent.com/render/math?math=FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5)" height="28" class="img-centered">
 
 ### Foundational Partners credit
 
@@ -358,7 +358,7 @@ As an example, consider an association
 
 - that has four directors certified and the association has engaged a manager who is [^3]CCAM-certified. The board rating would be
 
-<img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28">
+<img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-centered">
 
 ### Displayed rating vs. stored rating
 
@@ -368,7 +368,7 @@ The above rating result would be rounded to, for example, 3.4 for the star-ratin
 
 <img src="./images/3-1-stars-500.png" width="150" class="img-center">
 
-An eminently recognizable *star rating* next to the association's name may incentivize an effort by its directors to increase its rating by ensuring all positions are filled and directors' receive training --- the primary objectives of this program. Directors informing association members how the rating may affect dues may heighten members' awareness of the importance of volunteering for board participation.
+An eminently recognizable *star rating* next to the association's name may incentivize an effort by its directors to increase its rating by ensuring all positions are filled and directors' receive training — the primary objectives of this program. Directors informing association members how the rating may affect dues may heighten members' awareness of the importance of volunteering for board participation.
 
 #### Precision rating
 
