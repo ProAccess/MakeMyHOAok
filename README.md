@@ -9,6 +9,9 @@ For the past year or so I’ve been working on a novel plan to incent education 
 
 Isn't. It. Time?
 
+Please, help 
+<img src="./images/makemyhoaok%20logo.png" width="150">
+
 Like-minded folks can reach me at <b>george @sign proaccess dot com</b> 📫
 
 ![image](images/Switch%20building.jpg)
