@@ -327,7 +327,7 @@ Credits in excess of those required for certification are laudable but cannot be
 ---------------------------------------------------------------------------
 Whereas a calculated numeric score or rating may require interpretation, ratings based upon the popular and ubiquitous five-star model have come to be immediately and intuitively recognized. Thus, the rating calculation includes normalization to a maximum of five for presentation in the five-star format, e.g., a rating of 2.9 would be presented as
 
-    <img src="./images/2-9-stars-500.png" width="150" class="img-center">
+   <img src="./images/2-9-stars-500.png" width="150" class="img-center">
 
 []{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
