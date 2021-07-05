@@ -4,6 +4,7 @@ title: 'Proposal for establishing the Board of Certification for Community Assoc
 ___
 <span class="title">Proposal for establishing the Board of Certification for Community Association Directors</span>
 
+*Draft 7/5/21 — George Markle*
 ___
 
 The persistent problem of recruiting qualified directors
@@ -187,7 +188,7 @@ Should we succeed in having legislation passed to create the BCCAD, community as
 
 Other benefits of the program
 -----------------------------
-[]{#_Toc71296662 .anchor}Community Association services providers may by convinced to offer discounts for those associations who maintain high ratings, as informed boards should be easier and more profitable to work with.
+Community Association services providers may by convinced to offer discounts for those associations who maintain high ratings, as informed boards should be easier and more profitable to work with.
 
 ### May help bootstrap volunteer recruitment
 
@@ -337,7 +338,6 @@ Whereas a calculated numeric score or rating may require interpretation, ratings
 
    <img src="./images/2-9-stars-500.png" width="170" class="img-center">
 
-[]{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
 
    <img src="https://render.githubusercontent.com/render/math?math=FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5)" height="28" class="img-center">
