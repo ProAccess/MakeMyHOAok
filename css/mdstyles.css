@@ -110,8 +110,8 @@ header {
     font-weight: 300;
     font-size: 2rem;*/
   }
- header.h1{
-     color:#000;
+ header h1{
+     color:#080;
      font-weight: 300;
      padding: 50px;
  }
