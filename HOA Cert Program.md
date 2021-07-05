@@ -327,12 +327,12 @@ Credits in excess of those required for certification are laudable but cannot be
 ---------------------------------------------------------------------------
 Whereas a calculated numeric score or rating may require interpretation, ratings based upon the popular and ubiquitous five-star model have come to be immediately and intuitively recognized. Thus, the rating calculation includes normalization to a maximum of five for presentation in the five-star format, e.g., a rating of 2.9 would be presented as
 
-<img src="./images/2-9-stars-500.png" width="150" class="img-center">
+    <img src="./images/2-9-stars-500.png" width="150" class="img-center">
 
 []{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
 
-<img src="https://render.githubusercontent.com/render/math?math=FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5)" height="28" class="img-center">
+   <img src="https://render.githubusercontent.com/render/math?math=FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5)" height="28" class="img-center">
 
 ### Foundational Partners credit
 
@@ -344,12 +344,10 @@ A board's COMPETENCE rating would be determined by a formula that may be adjuste
 
 - an attorney specializing in state community association law. Certifying to CBCAD the association has established a client relationship with such an attorney will credit the association with one-half-point (0.5), the limit for this credit even if a relationship with more than one exists.
 
-   Should a court or arbrtor issue a ruling against a community association on a liability issue, the association will lose this credit for a period of one year.
+   At least two qualifying consultations per year will be required to retain this portion of the FP credit, though communities are reminded more frequent consultations may be required as circumstances warrant. Should a court or arbrtor issue a ruling against a community association on a liability issue, the association will lose this credit for a period of two years.
 
-   I've seen first hand deliterios effects upon communities by unsophisticated directors believing they were saving money by avoiding legal consultations. Potential for substantial losses involving members' interests mandates a continuing relationship with an attorney specialist and this is reflected within the rating system. 
+   I've witnessed too often unsophisticated directors believing they were saving money by avoiding legal consultations. Potential for substantial losses involving members' interests mandates a continuing relationship with an attorney specialist and this is reflected within the rating system.
    
-   At least two qualifying consultations per year will be required to retain this portion of the FP credit, though communities are reminded more frequent consultations may be required as circumstances warrant.
-
 ### Rating calculation example
 
 The COMPETENCE rating would be displayed as both stars and a number.
@@ -364,7 +362,7 @@ As an example, consider an association
 
 - that has four directors certified and the association has engaged a manager who is [^3]CCAM-certified. The board rating would be
 
-   <img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-center">
+      <img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-center">
 
 ### Displayed rating vs. stored rating
 
@@ -372,7 +370,7 @@ As an example, consider an association
 
 The above rating result would be rounded to, for example, 3.4 for the star-rating display on the BCCAD website and down­load­able report in both stars and number format as in the following example. (See page 26.)
 
-<img src="./images/3-1-stars-500.png" width="150" class="img-center">
+   <img src="./images/3-1-stars-500.png" width="150" class="img-center">
 
 An eminently recognizable *star rating* next to the association's name may incentivize an effort by its directors to increase its rating by ensuring all positions are filled and directors' receive training — the primary objectives of this program. Directors informing association members how the rating may affect dues may heighten members' awareness of the importance of volunteering for board participation.
 
