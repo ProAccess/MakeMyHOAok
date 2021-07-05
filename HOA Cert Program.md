@@ -335,7 +335,7 @@ Determination of community association <abbr>COMPETENCE</abbr> star rating
 ---------------------------------------------------------------------------
 Whereas a calculated numeric score or rating may require interpretation, ratings based upon the popular and ubiquitous five-star model have come to be immediately and intuitively recognized. Thus, the rating calculation includes normalization to a maximum of five for presentation in the five-star format, e.g., a rating of 2.9 would be presented as
 
-   <img src="./images/2-9-stars-500.png" width="150" class="img-center">
+   <img src="./images/2-9-stars-500.png" width="170" class="img-center">
 
 []{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
@@ -372,16 +372,13 @@ As an example, consider an association
 
    <img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-center">
 
-
-<img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-center">
-
 ### Displayed rating vs. stored rating
 
 #### Displayed rating
 
 The above rating result would be rounded to, for example, 3.4 for the star-rating display on the BCCAD website and down­load­able report in both stars and number format as in the following example. (See page 26.)
 
-   <img src="./images/3-1-stars-500.png" width="150" class="img-center">
+   <img src="./images/3-4-stars-500.png" width="170" class="img-center">
 
 An eminently recognizable *star rating* next to the association's name may incentivize an effort by its directors to increase its rating by ensuring all positions are filled and directors' receive training — the primary objectives of this program. Directors informing association members how the rating may affect dues may heighten members' awareness of the importance of volunteering for board participation.
 
