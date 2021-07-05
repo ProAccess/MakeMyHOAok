@@ -107,9 +107,9 @@ header {
     width: 100%;
     background-color: #3069A6;
     color: #000;
-    font-weight: 300;
-    font-size: 2rem;
-    padding: 2rem;
+/*    font-weight: 300;
+    font-size: 2rem;*/
+    padding: 1rem;
  }
 .navbar-brand {    /* Brings line even with links */
     padding-bottom: 6px;
