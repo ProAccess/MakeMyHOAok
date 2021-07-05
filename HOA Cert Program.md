@@ -1,7 +1,7 @@
 ---
-title: 'Proposal for establishing the California Board of Certification for Community Association Directors'
+title: 'Proposal for establishing the Board of Certification for Community Association Directors'
 ---
-<span class="title">Proposal for establishing the California Board of Certification for Community Association Directors</span>
+<span class="title">Proposal for establishing the Board of Certification for Community Association Directors</span>
 
 ___
 
@@ -39,7 +39,7 @@ Conventional licensing could hobble recruitment
 
 Consider this argument against making director education compulsory through legislation to require licensing:
 
-> "HOA directors are volunteers and many HOAs have difficulty recruiting sufficient volunteers for their boards. An increased burden of required education may dissuade potential volunteers, further exacerbating recruitment."
+> "HOA directors are volunteers and many HOAs have difficulty recruiting sufficient volunteers for their boards. An increased burden of required education or certification may dissuade potential volunteers, further exacerbating recruitment."
 
 At least one state, Florida, did try a licensing model. (See below.)
 
@@ -50,9 +50,9 @@ We can learn from the Florida model, which loosely follows consumer protection l
 
 While this may have been a compromise to enable bill passage, foreseeably it could be fatal to the purpose of informed governance.
 
-*With a twist on the licensing model, California can do better.*
+*With a twist on the licensing model, we can do better.*
 
-Rather than compel, California can *incent* education
+Rather than compel, we can *incent* education
 =====================================================
 
 I propose that ECHO, CAI, CACM and other community association-oriented trade groups advocate for state legislation to enable a program that would *incent members to participate on their associations' boards, and to seek to educate themselves* as directors and for boards to encourage directors' education. (See [*Summary of state legislation required to enable program*](#summary_of_state_legislation).)
@@ -242,7 +242,7 @@ Maintaining certification
 -------------------------
 An example policy for maintaining certification might be the following:
 
-To maintain certification, one must accumulate a minimum of eight continuing education credits (CECs) every four years from date of initial certification. At least 50% of those credits must derive from material covering California law or legal topics, authored or approved by an attorney practicing CID law in California.
+To maintain certification, one must accumulate a minimum of eight continuing education credits (CECs) every four years from date of initial certification. At least 50% of those credits must derive from material covering state law or legal topics, authored or approved by an attorney practicing CID law in the state.
 
 Given that CID directors are unpaid volunteers, this program strives to achieve a balance of incenting meaningful education without overly burdensome requirements that may discourage volunteer recruitment. We also recognize individuals' learning styles vary and allow for this in awarding certification and continuing education through these methods:
 
@@ -332,7 +332,7 @@ Whereas a calculated numeric score or rating may require interpretation, ratings
 []{#_Toc71296674 .anchor}
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
 
-<img src="https://render.githubusercontent.com/render/math?math=FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5)" height="28" class="img-centered">
+<img src="https://render.githubusercontent.com/render/math?math=FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 5)" height="28" class="img-center">
 
 ### Foundational Partners credit
 
@@ -340,9 +340,15 @@ A board's COMPETENCE rating would be determined by a formula that may be adjuste
 
 - a community association educational institution approved by CBCAD, such as ECHO (Educational Community of Homeowners) or CAI (Community Associations Institute). A current membership in either organization is equal to one-half-point (0.5), the limit for this credit even with membership in more than one. 
  
-A qualifying educational institution will periodically provide directors with published magazines and/or newsletters containing articles on community association law and best practices in management and oversight.
+   A qualifying educational institution will periodically provide directors with published magazines and/or newsletters containing articles on community association law and best practices in management and oversight.
 
-- an attorney specializing in California community association law. Certifying to CBCAD the association has established a client relationship with such an attorney will credit the association with one-half-point (0.5), the limit for this credit even if a relationship with more than one exists.
+- an attorney specializing in state community association law. Certifying to CBCAD the association has established a client relationship with such an attorney will credit the association with one-half-point (0.5), the limit for this credit even if a relationship with more than one exists.
+
+   Should a court or arbrtor issue a ruling against a community association on a liability issue, the association will lose this credit for a period of one year.
+
+   I've seen first hand deliterios effects upon communities by unsophisticated directors believing they were saving money by avoiding legal consultations. Potential for substantial losses involving members' interests mandates a continuing relationship with an attorney specialist and this is reflected within the rating system. 
+   
+   At least two qualifying consultations per year will be required to retain this portion of the FP credit, though communities are reminded more frequent consultations may be required as circumstances warrant.
 
 ### Rating calculation example
 
@@ -350,7 +356,7 @@ The COMPETENCE rating would be displayed as both stars and a number.
 
 As an example, consider an association
 
-- whose board or attorney has certified to BCCAD it has estab­lished a client relationship with an attorney specializing in California community association law (for one-half credit) and
+- whose board or attorney has certified to BCCAD it has estab­lished a client relationship with an attorney specializing in state community association law (for one-half credit) and
 
 - is a current member of an approved community association education organization, such as ECHO or CAI (for one-half credit).
 
@@ -358,7 +364,7 @@ As an example, consider an association
 
 - that has four directors certified and the association has engaged a manager who is [^3]CCAM-certified. The board rating would be
 
-<img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-centered">
+   <img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-center">
 
 ### Displayed rating vs. stored rating
 
@@ -503,9 +509,9 @@ Conforming examples
 -------------------
 Examples that follow illustrate conforming election materials.
 
-<a name="example_bios"></a><img src="./images/example-bios.png" width="650" class="img-center">
+<a name="example_bios"></a><img src="./images/example-bios.png" width="700" class="img-center">
 
-<a name="example_ballot"></a><img src="./images/example-ballot.png" width="650" class="img-center">
+<a name="example_ballot"></a><img src="./images/example-ballot.png" width="700" class="img-center">
 
 ___
 Exhibit C — Requirements for disclosures of board rating
@@ -519,7 +525,7 @@ Section 5310 (a)(12) would be renumbered as 5310 (a)(13) and new 5310(a)(12) wou
 \[12\] The Board's current COMPETENCE rating and explanation of its purpose and calculation formula, substantially as indicted in the example specimen that follows:
 
 <a name="example_hoa_rating"></a>
-<img src="./images/example-hoa-certification.png" width="650" class="img-center">
+<img src="./images/example-hoa-certification.png" width="700" class="img-center">
 
 ## Footnotes
 
