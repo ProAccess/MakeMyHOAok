@@ -112,7 +112,8 @@ header {
   }
  header.h1{
      color:#000;
-     padding: 1rem;
+     font-weight: 300;
+     padding: 50px;
  }
 .navbar-brand {    /* Brings line even with links */
     padding-bottom: 6px;
