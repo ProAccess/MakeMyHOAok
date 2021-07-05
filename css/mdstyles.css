@@ -6,10 +6,6 @@ body {padding: 3em;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.1em;
 }
-.title-block-header { /* For html doc created by pandoc */
-    color: #fff; 
-    padding: 2em;
-}
 .float-r {
     display:block;
     float:right;
@@ -111,6 +107,9 @@ header {
     width: 100%;
     /*	height: 5%; */
     background-color: #3069A6;
+    color: #000;
+    font-weight: 300;
+    font-size: 2.5rem;
     margin-bottom: 49px; /* 50 shows border */
 }
 .navbar-brand {    /* Brings line even with links */
