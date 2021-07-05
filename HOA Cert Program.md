@@ -1,6 +1,7 @@
 ---
 title: 'Proposal for establishing the Board of Certification for Community Association Directors'
 ---
+___
 <span class="title">Proposal for establishing the Board of Certification for Community Association Directors</span>
 
 ___
@@ -59,7 +60,7 @@ I propose that ECHO, CAI, CACM and other community association-oriented trade gr
 
 The state would not *require* community association directors be licensed; thus, community associations may continue to operate as they have without fear of a requirement that might discourage members from volunteering. However...
 
-There would be incentives for those associations that encourage their directors to become *certified*. (See [*Multiple broad benefits*](#multiple_benefits).)
+There would be incentives for those associations that encourage their directors to become *certified*. (See [*Multiple broad benefits*](#multiple-benefits).)
 
 First, legislation would create a new Civil Code Section 6200 to Division 4, Part 5, Chapter 12 that would
 
@@ -87,9 +88,9 @@ The BCCAD would assign *ratings* to communities based generally upon the propor�
 
 Real estate values in communities who can boast such ratings may benefit and provide a strong incentive for members to keep electing candidates who are certified. Those that do not risk being at a disadvantage.
 
-Other benefits may be fostered as well, such as discounts from services vendors, whom may justify discounts as educated boards are easier and more profitable to work with. (See [*Multiple broad benefits*](#multiple_benefits).)
+Other benefits may be fostered as well, such as discounts from services vendors, whom may justify discounts as educated boards are easier and more profitable to work with. (See [*Multiple broad benefits*](#multiple-benefits).)
 
-Board of Certification for Community Association Directors (BCCAD
+Board of Certification for Community Association Directors (BCCAD)
 =========================================================
 <img src="./images/logo-bccad-500.jpg" width="350" class="float-r">
 
@@ -138,9 +139,12 @@ This would ensure consistency with require­ment under Civil Code § 5105(a)(3) 
 Any member's certification status under this program would be verifiable via a website, as for verification of licenses and certifications for professionals and service providers operating under California Department of Consumer Affairs regulation.
 
 ___
-<a name="multiple_benefits"></a>Multiple broad benefits
+
+<a name="multiple-benefits"></a>
+
+Multiple broad benefits
 -----------------------
-[]{#_Toc71296657 .anchor}Benefits described below — particularly those involving reduced costs for the association affecting dues — may motivate CID boards to press directors to engage in the program and maintain their certifications and association ratings that would merit such benefits. Thus, association members may be motivated to vote for those candi­dates who are certified to maintain qualifying status and thus help control dues.
+Benefits described below — particularly those involving reduced costs for the association affecting dues — may motivate CID boards to press directors to engage in the program and maintain their certifications and association ratings that would merit such benefits. Thus, association members may be motivated to vote for those candi­dates who are certified to maintain qualifying status and thus help control dues.
 
 ### Benefits for community associations
 
@@ -152,7 +156,7 @@ The BCCAD would maintain a list of the top-10, top-100, top-1000 community assoc
 
 Disclosure of the board's rating would be required in the annual policy statement provided to all members pursuant to Civil Code §5310, also ensuring prospective purchasers would receive it. (See [example candidate biographies document](#example_bios).
 
-### Benefits for Community Association insurers
+### Benefits for community association insurers
 
 Insurance companies have long recognized the value of training of customers in improving risk management and reducing casualty costs. This program should result in more directors with demonstrated knowledge of best practices, current law and awareness of principles of risk management. An informed Board should be less likely to fall askew of the law and incur unexpected legal expenses. As such education could lower risk and insurance premiums — *typically one of the biggest budget items for CIDs* — this could provide a compelling motivation for boards to promote education among their directors and make certified candidates more attractive to the dues-paying members.
 
@@ -173,7 +177,7 @@ Much of a manager's time may be spent advising directors and dealing with issues
 
 Management companies may discover such benefits sufficient to warrant offering a discount for boards that can maintain higher ratings or increasing management fees should the board's rating drop below a certain number. Management fees usually are one of the largest budget items affecting dues.
 
-### Increased membership for Community Association educators
+### Increased membership for community association educators
 <span class="float-r"><img src="images/echo-logo-500.png" width="150"><br><br>
 <img src="images/cai-logo-500.png" width="150"><br><br>
 <img src="images/cacm-logo-500.png" width="125"></span>
@@ -282,28 +286,28 @@ A variance for extraordinary circumstances may be applied for to BCCAD.
 
 > Table — Credit calculation examples
 
-| **Method** | **Substantive length** | **Credits** | **Min. Exam Questions** |**Number of Questions**|
-| :--- | :---: | :---: | :---: | :---: |
-| In-person class or presentation | 10 min | 0 |   
-|  | 15 min | 1 |   |  |
-|  | 20 min | 1 |
-|  | 30 min | 2 |                                        
-|  | 40 min | 2 |
-|  | 45 min | 3 |
-|  | 50 min | 3 |
-|  | 1 hr | 4 |
-|  | 2 hr | 8 |
-| ... | 
-| Online courses, articles, written material | 1,000 words | 1 | 4 | 4-6 |
-|  | 1,500 | 1 | 6 | 6-9 |
-|  | 1,600 | 1 | 6 | 6-10 |
-|  | 1,700 | 1 | 7 | 7-10 |
-|  | 1,800 | 1 | 7 | 7-11 |
-|  | 1,900 | 2 | 8 | 8-11 |
-|  | 2,000 | 2 | 8 | 8-12 |
-|  | 3,000 | 3 | 12 | 12-18 |
-|   | 4,000 | 4 | 16 | 16-24 |
-| ... |
+| **Method**                                 | **Substantive length** | **Credits** | **Min. Exam Questions** | **Number of Questions** |
+| :----------------------------------------- | :--------------------: | :---------: | :---------------------: | :---------------------: |
+| In-person class or presentation            |         10 min         |      0      |
+|                                            |         15 min         |      1      |                         |                         |
+|                                            |         20 min         |      1      |
+|                                            |         30 min         |      2      |
+|                                            |         40 min         |      2      |
+|                                            |         45 min         |      3      |
+|                                            |         50 min         |      3      |
+|                                            |          1 hr          |      4      |
+|                                            |          2 hr          |      8      |
+| ...                                        |
+| Online courses, articles, written material |      1,000 words       |      1      |            4            |           4-6           |
+|                                            |         1,500          |      1      |            6            |           6-9           |
+|                                            |         1,600          |      1      |            6            |          6-10           |
+|                                            |         1,700          |      1      |            7            |          7-10           |
+|                                            |         1,800          |      1      |            7            |          7-11           |
+|                                            |         1,900          |      2      |            8            |          8-11           |
+|                                            |         2,000          |      2      |            8            |          8-12           |
+|                                            |         3,000          |      3      |           12            |          12-18          |
+|                                            |         4,000          |      4      |           16            |          16-24          |
+| ...                                        |
 
 \*A minimum of 75% correct answers is required for credit. Continuing education exams may be open-book, with full access to material, encouraging an applicant to review any material about which he or she may be uncertain. A failed exam may be taken over until successful.
 
@@ -323,7 +327,11 @@ The following include examples of how one may accumulate the required 8 credits 
 
 Credits in excess of those required for certification are laudable but cannot be applied to certification in *subsequent* periods inasmuch as current certification implies exposure to and knowledge of *current* legislation and developments in best practices. However, the total number of credits accumulated by an individual may be published in the online database as an incentive toward continuing education
 
-<a name="star_rating_determination"></a>Determination of community association <abbr>COMPETENCE</abbr> star rating
+___
+
+<a name="star_rating_determination"></a>
+
+Determination of community association <abbr>COMPETENCE</abbr> star rating
 ---------------------------------------------------------------------------
 Whereas a calculated numeric score or rating may require interpretation, ratings based upon the popular and ubiquitous five-star model have come to be immediately and intuitively recognized. Thus, the rating calculation includes normalization to a maximum of five for presentation in the five-star format, e.g., a rating of 2.9 would be presented as
 
@@ -362,7 +370,7 @@ As an example, consider an association
 
 - that has four directors certified and the association has engaged a manager who is [^3]CCAM-certified. The board rating would be
 
-      <img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-center">
+<img src="https://render.githubusercontent.com/render/math?math=(0.5 %2B 0.5) %2B \frac{6}{7} x \frac{(4 %2B 1)}{7} x 4 = 3.4489" height="28" class="img-center">
 
 ### Displayed rating vs. stored rating
 
@@ -382,8 +390,11 @@ Effective date of rating
 ------------------------
 The community association's rating would be recalculated and effective immediately following any change of Board composition or certification or change of manager or foundational partnerships that would affect the rating. Thus, an association's rating could not readily be manipulated by temporary director appointments or resignations.
 
+<a name="summary_of_state_legislation"></a>
+
 ___
-<a name="summary_of_state_legislation"></a>Summary of state legislation required to enable program
+
+Summary of state legislation required to enable program
 =======================================================
 Success in incenting participation and education for informed governance is predicated upon universal applicability of COMPETENCE ratings. Were application of ratings merely elective, there would be little incentive to maintain ratings. Therefore, legislation would be required that would do *all of the following*:
 
@@ -404,7 +415,10 @@ Success in incenting participation and education for informed governance is pred
 This description and proposal for a voluntary state-sanctioned program to promote participation on and education for community association boards is being circulated within the industry for discussion. Comments and suggestions are requested. Please forward to George Markle, george\@proaccess.com.
 
 ___
-<a name="statue_enabling_creation"></a>Exhibit A — Proposed statute enabling creation of BCCAD
+
+<a name="statue_enabling_creation"></a>
+
+Exhibit A — Proposed statute enabling creation of BCCAD
 =========================================================
 Proposed new Civil Code Section 6200
 ------------------------------------
@@ -479,7 +493,10 @@ Has passed an examination or examinations of no less than fifty (50) questions t
 11. Current issues relating to common interest developments.
 
 ___
-<a name="election_materials_include_certification"></a>Exhibit B — Election materials must include certification info
+
+<a name="election_materials_include_certification"></a>
+
+Exhibit B — Election materials must include certification info
 ================================================================
 Proposed amendment to identify certified candidates
 ---------------------------------------------------
@@ -512,18 +529,24 @@ Examples that follow illustrate conforming election materials.
 <a name="example_ballot"></a><img src="./images/example-ballot.png" width="700" class="img-center">
 
 ___
+
 Exhibit C — Requirements for disclosures of board rating
 ========================================================
 Civil Code §5310 would be amended to require the annual policy statement include the Board's COMPETENCE rating. As a conven­ience, BCCAD may provide a webpage from which a certificate of rating disclosure may be generated and downloaded. (See [specimen](#star_rating_determination).)
 
-<a name="cc5310_amendment"></a>Proposed amendment to Civil Code §5310
+<a name="cc5310_amendment"></a>
+
+Proposed amendment to Civil Code §5310
 --------------------------------------
 Section 5310 (a)(12) would be renumbered as 5310 (a)(13) and new 5310(a)(12) would become the following:
 
 \[12\] The Board's current COMPETENCE rating and explanation of its purpose and calculation formula, substantially as indicted in the example specimen that follows:
 
 <a name="example_hoa_rating"></a>
+
 <img src="./images/example-hoa-certification.png" width="700" class="img-center">
+
+___
 
 ## Footnotes
 
