@@ -2,7 +2,7 @@
 
 This site is for you and others living in and serving community associations to participate in developing a solution to the long-term conundrum: **How to increase competence of volunteer Community Association directors without discouraging volunteerism.**
 
-<div style="width: 90px; margin: 0px 0px 25px 25px; float: right"><img src="../images/George headshot 2019.jpg" class="imgCentered" alt="George" width="100%" style="border-radius: 50%;  margin:0px"><br>
+<div style="width: 90px; margin: 0px 0px 25px 25px; float: right"><img src="./images/George%20headshot%202019.jpg" class="imgCentered" alt="George" width="40px" style="border-radius: 50%;  margin:0px"><br>
     <p class="caption" style="text-align:center; margin:0px">George Markle
 </div>
 
