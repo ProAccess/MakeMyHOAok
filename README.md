@@ -2,7 +2,7 @@
 
 This site is for you and others living in and serving community associations to participate in developing a solution to the long-term conundrum: **How to increase competence of volunteer Community Association directors without discouraging volunteerism.**
 
-<div style="width: 90px; margin: 0px 0px 25px 25px; float: right"><img src="./images/George%20headshot%202019.jpg" class="imgCentered" alt="George" width="40px" style="border-radius: 50%;  margin:0px"><br>
+<img src="./images/George%20headshot%202019.jpg" class="imgCentered" alt="George" width="90px" style="border-radius: 50%;  margin:0px"><br>
     <p class="caption" style="text-align:center; margin:0px">George Markle
 </div>
 
@@ -21,7 +21,7 @@ Although language in the examples is for California; had to start somewhere and 
 If two heads are better than one, opening this up to many contributors has the potential to craft a truly great and effective program. We can use each other's help on all aspects, including sanity checks, legal review, awareness of potential unexpected barriers and a raft of other surprises certain to arise. It'll be an adventure!
 
 <h3>Legislation won't write itself</h3>
-Sk please gander the plan and give me your comments and suggestions so we can make it better — before we begin working with our legislators to implement.
+So please gander the plan and give me your comments and suggestions so we can make it better — before we begin working with our legislators to implement.
 
 Isn't. It. Time?
 
