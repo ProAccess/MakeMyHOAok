@@ -2,9 +2,7 @@
 
 This site is for you and others living in and serving community associations to participate in developing a solution to the long-term conundrum: **How to increase competence of volunteer Community Association directors without discouraging volunteerism.**
 
-<img src="./images/George%20headshot%202019.jpg" class="imgCentered" alt="George" width="90px" style="border-radius: 50%;  margin:0px"><br>
-    <p class="caption" style="text-align:center; margin:0px">George Markle
-</div>
+<img src="./images/George%20headshot%202019.jpg" class="imgCentered" alt="George" width="90px" style="border-radius: 50%;  margin:0px">
 
 I’m George Markle. I've been involved with homeowners associations for the past four decades and authored the <em>Homeowners Association Directors' Survival Kit.</em>
 
