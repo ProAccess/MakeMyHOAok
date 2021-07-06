@@ -3,6 +3,7 @@
 This site is for you and others living in and serving community associations to participate in developing a solution to the long-term conundrum: **How to increase competence of volunteer Community Association directors without discouraging volunteerism.**
 
 <img src="./images/George%20headshot%202019.jpg" class="imgCentered" alt="George" width="90px" style="border-radius: 50%;  margin:0px">
+</div>
 
 I’m George Markle. I've been involved with homeowners associations for the past four decades and authored the <em>Homeowners Association Directors' Survival Kit.</em>
 
@@ -32,5 +33,7 @@ Of course, <b>you can contribute ideas, comments and suggested changes without u
 
 While this program was created with the California legislature in mind, Community Association citizens and professionals and legislators across the country can participate here in crafting a program that can be adapted for other states. (Why-the-heck not?! If your state requires an adjustment to accommodate a law, just label your changes particular to that state.)
 
-Please help ![image](/images/makemyhoaok%20logo.png)
+Please, help 
+<img src="./images/makemyhoaok%20logo.png" width="150">
+
 <img src="./images/Switch%20building.jpg" width="500">
