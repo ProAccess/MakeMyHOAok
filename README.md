@@ -23,12 +23,12 @@ If two heads are better than one, opening this up to many contributors has the p
 <h3>Legislation won't write itself</h3>
 So please gander the plan and give me your comments and suggestions so we can make it better — before we begin working with our legislators to implement.
 
-Isn't. It. Time?
+Isn't it time?
 
 Contact
 =======
 
-Actually... this site with its forum <em>is</em> a great way for participating in this effort. But if you're comfortable using <a href="https://github.com/ProAccess/MakeMyHOAok"><em>GitHub</em></a>, that will expedite development, particularly if you are an attorney willing to help draft legislation. (I'm not an attorney and while I've made a lay effort to adapt existing legislation for this, I'm sure it must seem pretty pathetic to an attorney experienced with crafting legislation. Please help(!) by helping to draft legislation to bring this program to reality.
+Actually... the <a href="https://www.makemyhoaok.org">website</a> with its forum is a great way for participating in this effort. But if you're comfortable using GitHub, that will expedite development, particularly if you are an attorney willing to help draft legislation. (I'm not an attorney and while I've made a lay effort to adapt existing legislation for this, I'm sure it must seem pretty pathetic to an attorney experienced with crafting legislation. Please help(!) by helping to draft legislation to bring this program to reality.
 
 Of course, <b>you can contribute ideas, comments and suggested changes without using GitHub</b> simply by using e-mail (george @sign proaccess dot com) or the forum on this site.
 
