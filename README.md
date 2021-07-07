@@ -14,13 +14,14 @@ Thus, we have all seen and read about consequences of unsophisticated governance
 
 For the past few years I've contemplated this as-yet unsolved puzzle of essential requirements for competent oversight vs. circumstances malignantly aligned to defeat it. I finally began crafting a plan — a decidedly unconventional approach involving incentives to education and improve competency for community association directors. And it explodes conventional local- and state government barriers to involve the marketplace. Get ready for an interesting ride.
 
-<h3>State of affairs</h3>
-Although language in the examples is for California; had to start somewhere and this is where my protoplasm has existed for most of my HOA existence. It is also one of the states leading the nation in community association legislation. But is no reason a program like this couldn't be adopted by any state. If you have suggestions particular to another state, just say so. We'll create a new folder for your state.
+### State of affairs
 
-<h3>Heads up</h3>
+Note, language in the examples is for California, one of the states leading the nation in community association legislation. But there is no reason a program like this couldn't be adopted by any state. If you have suggestions particular to another state, just say so. We'll create a new folder for your state so we can track how legislation would differ.
+
+### Heads up
 If two heads are better than one, opening this up to many contributors has the potential to craft a truly great and effective program. We can use each other's help on all aspects, including sanity checks, legal review, awareness of potential unexpected barriers and a raft of other surprises certain to arise. It'll be an adventure!
 
-<h3>Legislation won't write itself</h3>
+### Legislation won't write itself
 So please gander the plan and give me your comments and suggestions so we can make it better — before we begin working with our legislators to implement.
 
 Isn't it time?
