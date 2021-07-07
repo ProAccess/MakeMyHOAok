@@ -15,7 +15,7 @@ Thus, we have all seen and read about consequences of unsophisticated governance
 For the past few years I've contemplated this as-yet unsolved puzzle of essential requirements for competent oversight vs. circumstances malignantly aligned to defeat it. I finally began crafting a plan — a decidedly unconventional approach involving incentives to education and improve competency for community association directors. And it explodes conventional local- and state government barriers to involve the marketplace. Get ready for an interesting ride.
 
 <h3>State of affairs</h3>
-Although language in the examples is for California; had to start somewhere and this is where my protoplasm has existed for most of my HOA existence. It is also one of the states leading the nation in community association legislation. But is no reason a program like this couldn't be adopted by any state. If you have suggestions particular to another state, just say so. It would be an excellent idea to visit the <a href="https://github.com/ProAccess/MakeMyHOAok"><em>GitHub</em></a> site and suggest a new folder with your state's name on it. I'll create it so we can track how legislation would differ.
+Although language in the examples is for California; had to start somewhere and this is where my protoplasm has existed for most of my HOA existence. It is also one of the states leading the nation in community association legislation. But is no reason a program like this couldn't be adopted by any state. If you have suggestions particular to another state, just say so. We'll create a new folder for your state.
 
 <h3>Heads up</h3>
 If two heads are better than one, opening this up to many contributors has the potential to craft a truly great and effective program. We can use each other's help on all aspects, including sanity checks, legal review, awareness of potential unexpected barriers and a raft of other surprises certain to arise. It'll be an adventure!
@@ -28,9 +28,7 @@ Isn't it time?
 Contact
 =======
 
-Actually... the <a href="https://www.makemyhoaok.org">website</a> with its forum is a great way for participating in this effort. But if you're comfortable using GitHub, that will expedite development, particularly if you are an attorney willing to help draft legislation. (I'm not an attorney and while I've made a lay effort to adapt existing legislation for this, I'm sure it must seem pretty pathetic to an attorney experienced with crafting legislation. Please help(!) by helping to draft legislation to bring this program to reality.
-
-Of course, <b>you can contribute ideas, comments and suggested changes without using GitHub</b> simply by using e-mail (george @sign proaccess dot com) or <a href="https://github.com/ProAccess/MakeMyHOAok/forum">the forum</a> on the <a href="https://www.makemyhoaok.org">website</a>.
+Actually... the <a href="https://www.makemyhoaok.org">website</a> with its <a href="https://github.com/ProAccess/MakeMyHOAok/forum">forum</a> is a great way for participating in this effort. But if you're comfortable using GitHub, that will expedite development, particularly if you are an attorney willing to help draft legislation. (I'm not an attorney and while I've made a lay effort to adapt existing legislation for this, I'm sure it must seem pretty pathetic to an attorney experienced with crafting legislation. Please help(!) by helping to draft legislation to bring this program to reality.
 
 While this program was created with the California legislature in mind, Community Association citizens and professionals and legislators across the country can participate here in crafting a program that can be adapted for other states. If your state requires an adjustment to accommodate a law, just label your changes particular to that state.
 
