@@ -30,7 +30,7 @@ Contact
 
 Actually... the <a href="https://www.makemyhoaok.org">website</a> with its forum is a great way for participating in this effort. But if you're comfortable using GitHub, that will expedite development, particularly if you are an attorney willing to help draft legislation. (I'm not an attorney and while I've made a lay effort to adapt existing legislation for this, I'm sure it must seem pretty pathetic to an attorney experienced with crafting legislation. Please help(!) by helping to draft legislation to bring this program to reality.
 
-Of course, <b>you can contribute ideas, comments and suggested changes without using GitHub</b> simply by using e-mail (george @sign proaccess dot com) or the forum on this site.
+Of course, <b>you can contribute ideas, comments and suggested changes without using GitHub</b> simply by using e-mail (george @sign proaccess dot com) or <a href="https://github.com/ProAccess/MakeMyHOAok/forum">the forum</a> on the <a href="https://www.makemyhoaok.org">website</a>.
 
 While this program was created with the California legislature in mind, Community Association citizens and professionals and legislators across the country can participate here in crafting a program that can be adapted for other states. If your state requires an adjustment to accommodate a law, just label your changes particular to that state.
 
