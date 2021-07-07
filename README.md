@@ -1,4 +1,5 @@
 <img src="./images/makemyhoaok-logo-project.svg" alt="project logo" width="350px">
+
 ![image](images/website-intro-animation.gif)
 
 This site is for you and others living in and serving community associations to participate in developing a solution to the long-term conundrum: **How to increase competence of volunteer Community Association directors without discouraging volunteerism.**
