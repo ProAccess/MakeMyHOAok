@@ -17,7 +17,7 @@ HOA managers and attorneys too often witness the dearth of volunteers and the in
 Pool of qualified candidates varies with community size
 -------------------------------------------------------
 
-<img src="./images-md/availability-curve-500.png" width="350" class="float-r">
+<img src="images-md/availability-curve-500.png" width="350" class="float-r">
 Populations of most towns and cities usually are sufficient to ena­ble competitive elections and town- and city-councils with talents in disciplines applicable to operating their governments. However, the comparatively small population of most home­owners associa­tions often means a dearth of board candidates, many without applicable qualifica­tions. Often, HOA boards find themselves with directors with virtually *no experience* in business, finance, law, construction or many other applicable fields.
 
 HOAs with underqualified directors are the rule — not the exception
@@ -85,7 +85,7 @@ First, legislation would create a new Civil Code Section 6200 to Division 4, Par
 
 - add new Civil Code §5105(a)(8) to require that any candidate certified under this program be identified as such on any election ballot or list of candidates.
 
-<img src="./images-md/cert-1000.png" width="500" class="img-center">
+<img src=images-md/cert-1000.png" width="500" class="img-center">
 
 Director certifications could earn benefits for their associations
 ------------------------------------------------------------------
@@ -100,7 +100,7 @@ Other benefits may be fostered as well, such as discounts from services vendors,
 
 Board of Certification for Community Association Directors (BCCAD)
 =================================================================
-<img src="./images-md/logo-bccad-500.jpg" width="350" class="float-r">
+<img src="images-md/logo-bccad-500.jpg" width="350" class="float-r">
 
 The BCCAD would
 
@@ -156,7 +156,7 @@ Benefits described below — particularly those involving reduced costs for the 
 
 ### Benefits for community associations
 
-<img src="./images-md/hammer-and-gavel-1000.png" width="350" class="float-r">
+<img src="images-md/hammer-and-gavel-1000.png" width="350" class="float-r">
 
 An overall board COMPETENCE score or *rating* would be calculated for each community association, derived primarily from the proportion of directors' seats that are filled and proportion of directors who are certified as well as whether they have engaged a manager who is certified. (See [*Determination of community association COMPETENCE star rating*](#star_rating_determination).
 
@@ -200,7 +200,7 @@ Community Association services providers may by convinced to offer discounts for
 
 As legislation would mandate publishing of the board's rating and the certification status of candidates, association members should become increasingly aware of the potential cost of insufficient participation on the board and the effect of directors' education on dues, likely to induce increased participation.
 
-<img src="./images-md/ballot-mailer.jpg" width="350" class="float-r">
+<img src="images-md/ballot-mailer.jpg" width="350" class="float-r">
 
 Also, the need and techniques for recruitment, training, motivation and retention of volunteers should be part of directors' education within this program. Thus, while it may be naïve to anticipate director education will completely solve recruitment issues, my experience has shown that awareness of the need for such activi­ties has made a difference in both quantity and qualifications of volunteers.
 
@@ -235,7 +235,7 @@ Director testing requirements are modeled somewhat after California Business and
 
 Over time, stringency may evolve as we gain more experience with the program.
 
-<img src="./images-md/example-question.png" width="450" class="img-center">
+<img src="images-md/example-question.png" width="450" class="img-center">
 
 The number of questions and required percentage of correct answers would be determined by BCCAD, the objective being to ensure knowledge of fundamentals while not discouraging participation by unpaid volunteers. The policy may be adjusted over time as results are gauged and as required to meet this objective. An example policy might be the following:
 
@@ -345,7 +345,7 @@ Whereas a calculated numeric score or rating may require interpretation, ratings
 
 The rating calculation includes normalization to a maximum of five for presentation in the five-star format, e.g., a rating of 2.9 would be presented as
 
-   <img src="./images-md/2-9-stars-500.png" width="170" class="img-center">
+   <img src="images-md/2-9-stars-500.png" width="170" class="img-center">
 
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
 
@@ -387,7 +387,7 @@ As an example, consider an association
 
 The above rating result would be rounded to, for example, 3.4 for the star-rating display on the BCCAD website and down­load­able report in both stars and number format as in the following example. (See page 26.)
 
-   <img src="./images-md/3-4-stars-500.png" width="170" class="img-center">
+   <img src="images-md/3-4-stars-500.png" width="170" class="img-center">
 
 #### Precision rating
 
@@ -531,9 +531,9 @@ Conforming examples
 -------------------
 Examples that follow illustrate conforming election materials.
 
-<a name="example_bios"></a><img src="./images-md/example-bios.png" width="700" class="img-center">
+<a name="example_bios"></a><img src="images-md/example-bios.png" width="700" class="img-center">
 
-<a name="example_ballot"></a><img src="./images-md/example-ballot.png" width="700" class="img-center">
+<a name="example_ballot"></a><img src="images-md/example-ballot.png" width="700" class="img-center">
 
 ___
 
@@ -551,7 +551,7 @@ Section 5310 (a)(12) would be renumbered as 5310 (a)(13) and new 5310(a)(12) wou
 
 <a name="example_hoa_rating"></a>
 
-<img src="./images-md/example-hoa-certification.png" width="700" class="img-center">
+<img src="images-md/example-hoa-certification.png" width="700" class="img-center">
 
 ___
 
