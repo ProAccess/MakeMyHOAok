@@ -1,10 +1,10 @@
-<img src="./images/makemyhoaok-logo-project.svg" alt="project logo" width="350px">
+<img src="./images-md/makemyhoaok-logo-project.svg" alt="project logo" width="350px">
 
-![image](images/website-intro-animation.gif)
+![image](images-md/website-intro-animation.gif)
 
 This site is for you and others living in and serving community associations to participate in developing a solution to the long-term conundrum: **How to increase competence of volunteer Community Association directors without discouraging volunteerism.**
 
-<img src="./images/George%20headshot%202019.jpg" class="imgCentered" alt="George" width="90px" style="border-radius: 50%;  margin:0px">
+<img src="./images-md/George%20headshot%202019.jpg" class="imgCentered" alt="George" width="90px" style="border-radius: 50%;  margin:0px">
 
 I’m George Markle. I've been involved with homeowners associations for the past four decades and authored the <em>Homeowners Association Directors' Survival Kit.</em>
 
@@ -34,6 +34,6 @@ Actually... the <a href="https://www.makemyhoaok.org">website</a> with its <a hr
 While this program was created with the California legislature in mind, Community Association citizens and professionals and legislators across the country can participate here in crafting a program that can be adapted for other states. If your state requires an adjustment to accommodate a law, just label your changes particular to that state.
 
 Please, help 
-<img src="./images/makemyhoaok%20logo.png" width="150">
+<img src="./images-md/makemyhoaok%20logo.png" width="150">
 
-<img src="./images/Switch%20building.jpg" width="500">
+<img src="./images-md/Switch%20building.jpg" width="500">
