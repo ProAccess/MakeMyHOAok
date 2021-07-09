@@ -7,12 +7,14 @@ ___
 *Draft 7/7/21 — George Markle*
 ___
 
-The persistent problem of recruiting qualified directors
-========================================================
+Costly consequences of under-qualified directors
+===============================================================
 
-How many corporations exist with directors responsible to protect a large portion of stakeholders' equity typically have so little demonstrated applicable experience, competence, or knowledge of their duties or legal responsibilities?
+How many corporations exist with directors responsible for protecting a large portion of stakeholders' equity typically having so little applicable experience or knowledge of their duties or legal responsibilities?
 
-HOA managers and attorneys too often witness the dearth of volunteers and the inordinate costs in time and funds wasted by HOA Boards attempting to navigate issues affected by laws and best practices about which directors are unaware — and time and costs for recovering from consequences of actions taken without such knowledge.
+We have all seen and read about consequences of unsophisticated governance of community associations — from petty irritations of hapless adminstration of architectural rules preventing a homeowner from flying a flag, to catastrophic loss and devestation of an entire community and lost lives resulting from failure to maintain adequate reserves for buliding infrustructure maintenance.</p>
+
+HOA managers and attorneys too often witness the dearth of volunteers and the inordinate costs in time and funds wasted by HOA Boards attempting to navigate issues affected by laws and best practices about which directors are unaware — and time and costs for recovering from consequences of actions or inaction.
 
 Pool of qualified candidates varies with community size
 -------------------------------------------------------
@@ -63,9 +65,15 @@ Let's take the example of California. Even with one of the most progressive legi
 
 In the case of California, I propose that ECHO, CAI, CACM and other community association-oriented education institutions advocate for state legislation described herein, to enable a program that would *incent members to participate on their associations' boards, and to seek to educate themselves* as directors and for boards to encourage directors' education. (See [*Summary of state legislation required to enable program*](#summary_of_state_legislation).)
 
-The state would not *require* community association directors be licensed; thus, community associations may continue to operate as they have without fear of a requirement that might discourage members from volunteering. However...
+### The <abbr>COMPETENCE</abbr> training program {#competence_training_program}
 
-There would be incentives for those associations that encourage their directors to become *certified*. (See [*Multiple broad benefits*](#multiple-benefits).)
+The educational program would be known as the <abbr>COMPETENCE</abbr> training program, an acronym for
+**C**ommunity **O**versight and **M**anagement **P**rinciples
+**E**ducation **T**o **E**ngender **C**ommunity **E**xcellence. (This acronym also complements the preferred means of attaining certification — through the [^comp_based_ed_footnote][*Competency Based Education*](#comp_based_education) method.
+
+The state would not *require* community association directors to participate in the <abbr>COMPETENCE<abbr> training or to be licensed; thus, community associations may continue to operate as they have without fear of a requirement that might discourage members from volunteering. However...
+
+There would be incentives for those associations that encourage their directors to participate and become *certified*. (See [*Multiple broad benefits*](#multiple-benefits).)
 
 First, legislation would create a new Civil Code Section 6200 to Division 4, Part 5, Chapter 12 that would
 
@@ -112,9 +120,7 @@ The BCCAD would
 
 - maintain online accessibility of each participant's certification and credits status.
 
-- establish standards for an educational program known as the <abbr>COMPETENCE</abbr> training program, an acronym for
-**C**ommunity **O**versight and **M**anagement **P**rinciples
-**E**ducation **T**o **E**ngender **C**ommunity **E**xcellence. (This acronym also complements the preferred means of attaining certification — through the [^1]*Competency Based Education* method. See the US Department of Education explanation of this method, below.)
+- establish standards for the [<abbr>COMPETENCE</abbr> training program](#competence_training_program).
 
 - establish a <abbr>COMPETENCE</abbr>-star-rating system for community association boards, derived from a formula that includes the percentage of its directors with a current certification as well as whether it is actively managed by a CCAM-certified manager. (See [Determination of community association COMPETENCE star rating](#star_rating_determination)</a>).
 
@@ -557,7 +563,9 @@ ___
 
 ## Footnotes
 
-[^1]: The US Department of Education describes *Competency Based
+<a name="comp_based_education"></a>
+
+[^comp_based_ed_footnote]: The US Department of Education describes *Competency Based
     Education* as a preferred alternative to a traditional
     *Carnegie-Unit* based approach to learning in the modern age for a population already employed and without the flexibility of full-time student status.
     <https://www.ed.gov/oii-news/competency-based-learning-or-personalized-learning>.
