@@ -65,11 +65,13 @@ Let's take the example of California. Even with one of the most progressive legi
 
 In the case of California, I propose that ECHO, CAI, CACM and other community association-oriented education institutions advocate for state legislation described herein, to enable a program that would *incent members to participate on their associations' boards, and to seek to educate themselves* as directors and for boards to encourage directors' education. (See [*Summary of state legislation required to enable program*](#summary_of_state_legislation).)
 
-### The <abbr>COMPETENCE</abbr> training program {#competence_training_program}
+<a name="competence_program"></a>
+
+### The <abbr>COMPETENCE</abbr> training program
 
 The educational program would be known as the <abbr>COMPETENCE</abbr> training program, an acronym for
 **C**ommunity **O**versight and **M**anagement **P**rinciples
-**E**ducation **T**o **E**ngender **C**ommunity **E**xcellence. (This acronym also complements the preferred means of attaining certification — through the [^comp_based_ed_footnote][*Competency Based Education*](#comp_based_education) method.
+**E**ducation **T**o **E**ngender **C**ommunity **E**xcellence. (This acronym also complements the preferred means of attaining certification — through the [*Competency Based Education*](#comp_based_education) method.
 
 The state would not *require* community association directors to participate in the <abbr>COMPETENCE<abbr> training or to be licensed; thus, community associations may continue to operate as they have without fear of a requirement that might discourage members from volunteering. However...
 
@@ -120,7 +122,7 @@ The BCCAD would
 
 - maintain online accessibility of each participant's certification and credits status.
 
-- establish standards for the [<abbr>COMPETENCE</abbr> training program](#competence_training_program).
+- establish standards for the [<abbr>COMPETENCE</abbr> training program](#competence_program).
 
 - establish a <abbr>COMPETENCE</abbr>-star-rating system for community association boards, derived from a formula that includes the percentage of its directors with a current certification as well as whether it is actively managed by a CCAM-certified manager. (See [Determination of community association COMPETENCE star rating](#star_rating_determination)</a>).
 
@@ -565,7 +567,7 @@ ___
 
 <a name="comp_based_education"></a>
 
-[^comp_based_ed_footnote]: The US Department of Education describes *Competency Based
+1  The US Department of Education describes *Competency Based
     Education* as a preferred alternative to a traditional
     *Carnegie-Unit* based approach to learning in the modern age for a population already employed and without the flexibility of full-time student status.
     <https://www.ed.gov/oii-news/competency-based-learning-or-personalized-learning>.
