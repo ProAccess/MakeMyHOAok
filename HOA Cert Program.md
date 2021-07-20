@@ -387,6 +387,8 @@ The COMPETENCE rating would be displayed as both stars and a number.
 
 As an example, consider an association
 
+- whose reserves are 74% funded, based upon a report by a professional engineering firm that examined physical infrastructure, estimated remaining useful life of components and calculated reserves percent funded.
+
 - whose board or attorney has certified to BCCAD it has established a client relationship with an attorney specializing in state community association law (for one-half credit) and
 
 - is a current member of an approved community association education organization, such as ECHO or CAI (for one-half credit).
