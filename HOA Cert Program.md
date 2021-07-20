@@ -72,7 +72,7 @@ I propose that ECHO (Educational Community of Homeowners), CAI (Community Associ
 
 The educational program would be known as the <abbr>COMPETENCE</abbr> training program, an acronym for
 **C**ommunity **O**versight and **M**anagement **P**rinciples
-**E**ducation **T**o **E**ngender **C**ommunity **E**xcellence. (This acronym also complements the preferred means of attaining certification — through the [*Competency Based Education*](#comp_based_education) method.
+**E**ducation **T**o **E**ngender **C**ommunity **E**xcellence. (This acronym also complements the preferred means of attaining certification — through the [*Competency Based Education*](#comp_based_education)[^1] method.
 
 The state would not *require* community association directors to participate in the <abbr>COMPETENCE<abbr> training or to be licensed; thus, community associations may continue to operate as they have without fear of a requirement that might discourage members from volunteering. However...
 
@@ -293,7 +293,7 @@ A detailed lesson plan or class outline should be submitted to BCCAD, nominally 
 
 Writing style variation defies precise assignment of credits per given volume of material. However, an author or instructor should attempt to meet the following guidelines before submitting material via the BCCAD website for approval:
 
-One credit may be awarded for each 1,000 words of [^2]*substantive material* with a minimum of 75% correct answers to questions that follow. *The author should include approximately 1-question per each 200 words of substantive written material*. For example, a 1,000-word article would be followed by 4-to-6 questions. The minimum number is indicated in the table.
+One credit may be awarded for each 1,000 words of *substantive material*[^2] with a minimum of 75% correct answers to questions that follow. *The author should include approximately 1-question per each 200 words of substantive written material*. For example, a 1,000-word article would be followed by 4-to-6 questions. The minimum number is indicated in the table.
 
 A variance for extraordinary circumstances may be applied for to BCCAD.
 
@@ -588,7 +588,7 @@ ___
 
 <a name="comp_based_education"></a>
 
-1  The US Department of Education describes *Competency Based
+[^1]: The US Department of Education describes *Competency Based
     Education* as a preferred alternative to a traditional
     *Carnegie-Unit* based approach to learning in the modern age for a population already employed and without the flexibility of full-time student status.
     <https://www.ed.gov/oii-news/competency-based-learning-or-personalized-learning>.
