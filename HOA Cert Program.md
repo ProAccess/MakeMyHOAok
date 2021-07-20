@@ -448,6 +448,12 @@ ___
 
 <a name="statute_enabling_creation"></a>
 
+# The following exhibits illustrate how California can implement program
+
+Although numbered for California, these exhibits should be readily adaptable for any state.
+
+___
+
 Exhibit A — Proposed statute enabling creation of BCCAD
 =========================================================
 Proposed new Civil Code Section 6200
