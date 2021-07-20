@@ -195,8 +195,8 @@ Much of a manager's time may be spent advising directors and dealing with issues
 Management companies may discover such benefits sufficient to warrant offering a discount for boards that can maintain higher ratings or increasing management fees should the board's rating drop below a certain number. Management fees usually are one of the largest budget items affecting dues.
 
 ### Increased membership for community association educators
-<div class="element-center"><img src="images-md/echo-logo-500.png" width="150">&nbsp;&nbsp;&nbsp;<img src="images-md/cai-logo-500.png" width="150">&nbsp;&nbsp;&nbsp;
-<img src="images-md/cacm-logo-500.png" width="125"></div>
+<div class="element-center"><a href="https://echo-ca.org"><img src="images-md/echo-logo-500.png" width="150"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.caionline.org/pages/default.aspx"><img src="images-md/cai-logo-500.png" width="150"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://cacm.org"><img src="images-md/cacm-logo-500.png" width="125"></a></div>
 
 Should we succeed in having legislation passed to create the BCCAD, community association education organizations likely would see a substantial increase in membership. Those already at the forefront — ECHO, CAI, CACM — particularly should benefit given their established prominence and reputations for excellence.
 
@@ -424,7 +424,7 @@ Summary of state legislation required to enable program
 
 Success in incenting participation and education for informed governance is predicated upon universal applicability of COMPETENCE ratings. Were application of ratings merely elective, there would be little incentive for community associations to maintain ratings. Therefore, legislation would be required that would do *all of the following*:
 
-- require community associations to engage a professional engineering firm every two-to-five years to physically inspect physical infrastructure, determine estimated remaining life, projected repair and replacement costs, and specify a dollar amount that must be contributed on a regular basis in order for such funds to be available when needed. The report also must calculate the percent funded. The topic is discussed more fully in the CAI publication, *National Reserve Study Standards.* (Also see [Reserves *percent funded*](#percent_funded_explan).)
+- require community associations to engage a professional engineering firm every two-to-five years to physically inspect physical infrastructure, determine estimated remaining life, projected repair and replacement costs, and specify a dollar amount that must be contributed on a regular basis in order for such funds to be available when needed. The report also must calculate the percent funded. The topic is discussed more fully in the CAI publication, [*National Reserve Study Standards*](https://www.caionline.org/LearningCenter/credentials/Documents/NRSSClarificationArticles.pdf). (Also see [Reserves *percent funded*](#percent_funded_explan).)
 
    **Model, proven legislation** has been in effect for many years and can be viewed via the web by examining California Civil Code sections [5550](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=4.&title=&part=5.&chapter=7.&article=3.), [5560](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=5560.) and [5300](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=5300).
 
@@ -540,7 +540,7 @@ Add new Civil Code §5105(a)(8) to require that any candidate certified under th
 
 > "Ensure any ballot and list of board candidates identifies any candidate certified by an organization as provided under Civil Code §6200 as having a current certification by placement of an asterisk or other legend or footnote indicator next to the candidate's name, and includes a legend or footnote containing substantially the following:
 
-> '\*Indicates candidate has met requirements set by the California Board of Certification for Community Association Directors (BCCAD) for designation as a Certified Community Association Director (CCAD).'
+>> '\*Indicates candidate has met requirements set by the California Board of Certification for Community Association Directors (BCCAD) for designation as a Certified Community Association Director (CCAD).'
 
 > At the candidate's option, any certified candidate may include the "CCAD" designation after their name."
 
@@ -552,7 +552,7 @@ Add new Civil Code §5105(a)(9) to require that information be provided regardin
 
 > "Ensure any director ballot and list of board candidates include information regarding how any association member may apply for certification as provided under Civil Code §6200. Such information must include the association's Secretary of State entity number so as to enable such application. The information shall contain substantially the following:
 
-> 'Any association member may apply for certification as a Certified Community Association Director (CCAD) online at BCCAD.org using Secretary of State file number \[include association's SOS file number\].'"
+>> 'Any association member may apply for certification as a Certified Community Association Director (CCAD) online at BCCAD.org using Secretary of State file number \[include association's SOS file number\].'"
 
 Example documents illustrating compliance appear below.
 
