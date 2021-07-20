@@ -355,7 +355,7 @@ The rating calculation includes normalization to a maximum of five for presentat
 
 A board's COMPETENCE rating would be determined by a formula that may be adjusted by BCCAD from time to time as relevant factors become apparent. I propose the initial formula be as follows:
 
-   <img src="https://render.githubusercontent.com/render/math?math=(R * .01) + FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 3)" height="30" class="img-center">
+   <img src="https://render.githubusercontent.com/render/math?math=(R * .01) %2B FP %2B (\frac{Number\ of\ currently\ certified\ directors\ and\ manager}{Max\ directors\ per\ Bylaws} x \frac{Actual\ number\ of\ directors}{Max\ directors\ per\ Bylaws} x 3)" height="30" class="img-center">
 
 <a name="percent_funded_explan"></a>
 
@@ -395,7 +395,7 @@ As an example, consider an association
 
 - that has four directors certified and the association has engaged a manager who is CCAM-certified.[^3] The board rating would be
 
-   <img src="https://render.githubusercontent.com/render/math?math=0.74 + (0.5 %2B 0.5) %2B (\frac{6}{7} x \frac{(4 %2B 1)}{7} x 3) = 3.2094" height="30" class="img-center">
+   <img src="https://render.githubusercontent.com/render/math?math=0.74 %2B (0.5 %2B 0.5) %2B (\frac{6}{7} x \frac{(4 %2B 1)}{7} x 3) = 3.2094" height="30" class="img-center">
 
 ### Displayed rating vs. precision rating
 
